@@ -1,0 +1,1 @@
+Artículo Primero.- Conformar el Consejo Regional de la Mujer, como ente promotor, consultivo y de concertación para la formulación e implementación de políticas, programas y proyectos de equidad e igualdad de oportunidades y prevención contra la violencia en el ámbito de la Región Cusco.
