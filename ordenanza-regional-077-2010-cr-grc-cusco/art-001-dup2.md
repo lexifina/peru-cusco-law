@@ -1,0 +1,1 @@
+Artículo Primero.- DISPONER que para el servicio de Transporte Público regular de personas en el ámbito de la Región Cusco, se reduce el patrimonio mínimo exigido a cien (100) Unidades Impositivas Tributarias, para acceder y permanecer en el servicio de Transporte Público de personas.
