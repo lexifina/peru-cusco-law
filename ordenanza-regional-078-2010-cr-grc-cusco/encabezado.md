@@ -1,0 +1,19 @@
+ORDENANZA REGIONAL
+Nº 078-2010-CR/GRC.CUSCO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Cusco, en sesión Extraordinaria de fecha catorce de Octubre del año Dos mil Diez, ha debatido el Dictamen de la Comisión Ordinaria de Asuntos Económicos, relativo a la Declaratoria de Necesidad y Utilidad e Interés Regional la Ejecución del Parque Industrial del Cusco; por tanto:
+CONSIDERANDO:
+Que, el Artículo 59° de la Constitución Política del Estado, prescribe textualmente: “El Estado estimula la creación de riqueza y garantiza la libertad de trabajo y la libertad de empresa, comercio e industria. El ejercicio de estas libertades no debe ser lesivo a la moral, ni a la salud, ni a la seguridad públicas. El Estado brinda oportunidades de superación a los sectores que sufren cualquier desigualdad; en tal sentido, promueve las pequeñas empresas en todas sus modalidades”.
+Que, asimismo, el Artículo 191º de la Carta Magna modificada por Ley Nº 27680 - Ley de Reforma Constitucional del Capítulo XIV del Titulo IV, establece: “Los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia…”.
+Que, el Artículo 48º de la Ley Orgánica de Gobiernos Regionales, al establecer las Funciones en materia de trabajo, promoción del empleo y la pequeña y microempresa, prescribe textualmente lo siguiente:
+a) Formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar las políticas en materia de trabajo, promoción del empleo y fomento de la pequeña y micro empresa, con la política general del gobierno y los planes sectoriales.
+b) Incorporar la promoción del empleo productivo en los planes de desarrollo regional concertados.
+c) Formular y ejecutar los planes de promoción de la pequeña y micro empresa, y apoyo a las iniciativas empresariales, que incidan en la mejora de la calidad del empleo de estas unidades económicas.
+d) Promover el diálogo y la concertación con las organizaciones representativas de los trabajadores, empleadores y sectores de la sociedad vinculados, en materia de trabajo, promoción del empleo, formación profesional y fomento de la micro y pequeña empresa.
+g) Promover e incentivar el desarrollo y formalización de pequeñas y microempresas con criterios de flexibilidad y simplificación, la instalación de empresas en la región y la iniciativa privada en actividades y servicios regionales.
+Por lo que, el fomento de la pequeña y microempresa encontrará su mayor apoyo y crecimiento con el establecimiento y funcionamiento del Parque Industrial del Cusco.
+Que, el Artículo 36º de la Ley Orgánica precedentemente aludida, prescribe textualmente: “Las normas y disposiciones del Gobierno Regional se adecuan al ordenamiento jurídico nacional, no pueden invalidar i dejar sin efecto normas de otro Gobierno Regional ni de los otros niveles de gobierno”. Razón por lo que, la presente norma regional debe estar ajustada a los términos establecidos en la Ley Nº 29520 – Ley de creación del Parque Industrial del Cusco; que dispone en su Art. 2° la declaración de necesidad y utilidad pública, así como de preferente interés nacional y regional la ejecución del Parque Industrial. Así mismo expresa el rol importante del Gobierno Regional del Cusco expresados en los Artículos 3°, 4° y segunda disposición complementaria de la citada Ley.
+Que, la Ley N° 28183 - Ley Marco de Desarrollo de Parques Industriales, regula el establecimiento, la promoción y desarrollo de Parques Industriales estableciendo un rol importante a los Gobiernos Regionales expresados en los Artículos 3°, 4°, 5°, 7° y 8° de la citada Ley.
+Por lo que; el Consejo Regional de Cusco, en uso de la facultad conferida por el artículo 191° de la Constitución Política del Estado, la Ley Orgánica de Gobiernos Regionales y el Reglamento Interno de Organización y funciones.
+Ha dado la siguiente:
+ORDENANZA REGIONAL
