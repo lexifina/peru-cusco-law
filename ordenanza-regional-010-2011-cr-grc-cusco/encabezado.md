@@ -1,0 +1,17 @@
+ORDENANZA REGIONAL
+Nº 010-2011-CR/GRC.CUSCO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Cusco, en Sesión Extraordinaria de fecha treinta y uno de agosto del año dos mil once, ha debatido el Proyecto de Ordenanza Regional que Aprueba el Plan Regional Concertado de Saneamiento Básico del Cusco al 2021; por tanto:
+CONSIDERANDO:
+Que, el artículo 191º de la Constitución Política del Estado, modificado por Ley Nº 27680, “Ley de Reforma Constitucional del Capítulo XIV del Título IV, establece: “Los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia (…) La estructura orgánica básica de estos gobiernos la conforman el Consejo Regional como órgano normativo y fiscalizador
+(…)”.
+Que, el artículo 13º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, modificada por la Ley Nº 29053, establece que el Consejo Regional: “Es el órgano normativo y fiscalizador del gobierno regional. Le corresponde las funciones y atribuciones que se establecen en la presente Ley y aquellas que le sean delegadas. (…)”.
+Que, el literal a) del artículo 58° de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que son funciones de los gobiernos regionales en materia de vivienda y saneamiento, el de formular, aprobar y evaluar los planes y políticas regionales en materia de vivienda y saneamiento, en concordancia con los planes de desarrollo de los gobiernos locales, y de conformidad con las políticas nacionales y planes sectoriales.
+Que, la disposición precedente se halla a su vez entre las competencias asignadas por la Constitución Política del Estado y la Ley de Bases de la Descentralización, en cuyo mérito se debe planificar el desarrollo integral de la región y ejecutar los programas socioeconómicos correspondientes, en armonía con el Plan Nacional de Desarrollo.
+Que, el inciso b) del artículo 13º del Reglamento Interno de Organización y Funciones del Consejo Regional, aprobado por Ordenanza Regional Nº 021-2007-CR/GRC.CUSCO y modificado por Ordenanza Regional Nº 044-2008-CR/GRC.CUSCO, dispone que: “Son atribuciones del Consejo Regional del Cusco, aprobar el Plan de Desarrollo Regional Concertado de mediano y largo plazo, concordante con el Plan Nacional de Desarrollo y buscando la articulación entre zonas urbanas y rurales, concertadas con el Consejo de Coordinación Regional.
+Que, el Plan Regional Concertado de Saneamiento Básico de Cusco al 2021, servirá de herramienta orientadora para la formulación de los planes de inversiones en saneamiento a nivel de los gobiernos locales.
+Que, dentro del marco del Plan Nacional de Saneamiento 2006 – 2015, aprobado por Decreto Supremo N° 007-2006-VIVIENDA, y de la política regional de gestión integral de proyectos de agua y saneamiento aprobado por Ordenanza Regional N° 031-2008-CR/GRC.CUSCO.
+Que, estando a la propuesta elevada por la Dirección Regional de Vivienda, Construcción y Saneamiento del Gobierno Regional del Cusco, con los informes y visaciones de la Oficina Regional de Asesoría Jurídica y Gerencia General Regional y los Dictámenes en unanimidad de la Comisión Ordinaria de Panificación, Presupuesto y Administración y la Comisión Ordinaria de Asuntos Sociales.
+Por lo que; el Consejo Regional del Cusco, en uso de la facultad conferida por el artículo 191° de la Constitución Política del Estado, la Ley Orgánica de Gobiernos Regionales y el Reglamento Interno de Organización y Funciones.
+HA DADO LA SIGUIENTE:
+ORDENANZA REGIONAL
