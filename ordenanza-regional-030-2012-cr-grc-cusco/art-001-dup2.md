@@ -1,0 +1,1 @@
+Artículo Primero.- El Consejo Regional de Ciencia, Tecnología e Innovación Tecnológica Cusco, trabajará coordinadamente con las Comisiones Ordinarias correspondientes del Consejo Regional del Cusco, debiendo brindar informe anual cuando el Consejo Regional lo solicite.
