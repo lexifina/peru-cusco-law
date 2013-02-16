@@ -1,0 +1,1 @@
+Artículo Primero.- Encomendar al Ejecutivo Regional, para que a través de la Dirección Regional de Trabajo y Promoción del Empleo – Cusco, realice las acciones necesarias para la implementación y cumplimiento de la presente Ordenanza Regional.
