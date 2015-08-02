@@ -1,0 +1,1 @@
+Articulo Tercero.- La Dirección Regional de Comercio Exterior y Turismo Cusco y los integrantes de la COREFAR electos se encargarán de elaborar el Reglamento del Consejo Regional de Fomento Artesanal Cusco – COREFAR en el plazo de treinta (30) días de publicada la presente Ordenanza Regional, estableciendo sus funciones y atribuciones.
