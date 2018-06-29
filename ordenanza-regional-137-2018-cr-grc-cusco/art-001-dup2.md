@@ -1,0 +1,2 @@
+Artículo Primero.- DECLARAR de Necesidad y Prioridad Pública Regional la Implementación del Proceso de Desplazamiento Temporal a Definitivo de Trabajadores Nombrados del Sector Salud del Gobierno Regional Cusco, comprendidos en el periodo 2006 al 2016, conforme a los considerandos de la presente Ordenanza Regional y demás normas nacionales vigentes, que regulan los desplazamientos de Trabajadores del Sector Salud.
+DEBE DECIR:

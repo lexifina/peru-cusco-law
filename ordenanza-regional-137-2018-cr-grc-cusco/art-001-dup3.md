@@ -1,0 +1,2 @@
+Artículo Primero.- A reorganizar la gestión de recursos humanos a nivel de la Dirección Regional de Salud declarando de necesidad y prioridad Publica Regional la implementación del proceso de desplazamiento de trabajadores nombrados del sector Salud del Gobierno Regional del Cusco, que se encausaron en su condición desplazados al 31 de diciembre del 2016, conforme a los considerandos de la presente Ordenanza Regional y demás normas nacionales vigentes que regulan los desplazamiento de trabajadores del sector Salud.
+DICE:
