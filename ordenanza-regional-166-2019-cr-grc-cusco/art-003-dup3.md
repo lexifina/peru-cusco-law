@@ -1,0 +1,1 @@
+Artículo Tercero.- TRANSCRIBIR la Presente Ordenanza de Consejo Regional a la Dirección Regional de Salud Cusco e instancias técnico administrativas de la sede del Gobierno Regional del Cusco, para las acciones correspondientes.
