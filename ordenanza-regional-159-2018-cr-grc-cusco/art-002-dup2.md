@@ -1,0 +1,9 @@
+Artículo Segundo.- CONFORMAR el Grupo Impulsor para la creación del Consejo de Cuenca de Recursos Hídricos de la Cuenca del Río Apurímac, con la finalidad de coordinar e impulsar la ejecución de acciones del Consejo de Recursos Hídricos de Cuenca, aprobado por Resolución Jefatura Nº 575-2010-ANA, y estará conformado por:
+a) Un (01) representante de la Gerencia Regional de la Gerencia Regional de Recursos Naturales y Gestión del Ambiente
+b) Un (01) representante de la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial.
+c) Un (01) representante del PER PLAN MERISS INKA.
+d) Un (01) representante del PER IMA.
+e) Un (01) representante de la Dirección Regional de Vivienda, Construcción y Saneamiento.
+f) Un (01) representante de la Dirección Regional de Agricultura y
+g) Un (01) representante de la Autoridad Administrativa del Agua XI Pampas Apurímac – ANA
+DEBE DECIR:

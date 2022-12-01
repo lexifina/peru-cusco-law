@@ -1,0 +1,2 @@
+Artículo Primero.- DECLARAR DE NECESIDAD PÚBLICA Y DE PRIORIDAD REGIONAL la Gestión Integrada de los Recursos Hídricos de la Cuenca del Rio Apurímac, con el propósito de lograr eficiencia y sostenibilidad en el manejo de la cuenca hidrográfica, para la conservación e incremento del agua, así como, para asegurar su calidad fomentando una cultura del agua para garantizar la demanda de las actuales y futuras generaciones.
+DEBE DECIR:
