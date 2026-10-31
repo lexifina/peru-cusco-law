@@ -133,20 +133,33 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-052-2013-cr-grc-cusco` | Ordenanza Regional N° 052-2013-CR/GRC.CUSCO: Aprueban documento denominado "Acuerdo por el Cusco", suscrito por los representantes y candidatos de diversos partidos y movimientos políticos a la Presidencia del Gobierno Regional del Cusco | 1 | 2013-11-23 to 2013-11-23 |
 | `ordenanza-regional-010-2011-cr-grc-cusco` | Ordenanza Regional N° 010-2011-CR/GRC.CUSCO: Aprueban el "Plan Regional Concertado de Saneamiento Básico del Cusco al 2021" | 1 | 2012-01-20 to 2012-01-20 |
 | `ordenanza-regional-049-2013-cr-grc-cusco` | Ordenanza Regional N° 049-2013-CR/GRC.CUSCO: Aprueban Reglamento Interno de Organización y Funciones del Consejo Regional del Gobierno Regional del Cusco | 1 | 2013-03-29 to 2013-03-29 |
+| `ordenanza-regional-289-2026-crc-grc` | Ordenanza Regional N° 289-2026-CRC/GRC: Modifican el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional de Cusco | 1 | 2026-11-06 to 2026-11-06 |
+| `ordenanza-regional-191-2021cr-gr-cusco` | Ordenanza Regional N° 191-2021CR/GR.CUSCO: Disponen la creación del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Cusco | 1 | 2021-07-16 to 2021-07-16 |
+| `ordenanza-regional-187-2020-cr-gr-cusco` | Ordenanza Regional N° 187-2020-CR/GR CUSCO: Aprueban la conformación del Consejo Regional de Seguridad Alimentaria y Nutricional de Cusco - CORSA CUSCO | 1 | 2021-06-29 to 2021-06-29 |
+| `ordenanza-regional-178-2020-cr-gr-cusco` | Ordenanza Regional N° 178-2020-CR/GR CUSCO: Aprueban la creación del Consejo Regional para las Personas adultas Mayores del Ámbito del Gobierno Regional Cusco y declaran de interés regional el tema de las personas adultas mayores | 1 | 2021-02-02 to 2021-02-02 |
+| `ordenanza-regional-157-2018-cr-grc-cusco` | Ordenanza Regional N° 157-2018-CR/GRC.CUSCO: Crean el Consejo Regional de Integración de las Personas con Discapacidad en la Región Cusco - COREDIS e implementan la Estrategia Regional sobre Discapacidad y Desarrollo Inclusivo (ERDDI) | 1 | 2021-02-02 to 2021-02-02 |
+| `ordenanza-regional-158-2018-cr-grc-cusco` | Ordenanza Regional N° 158-2018-CR/GRC.CUSCO: Declaran de interés regional la Zonificación Forestal del departamento de Cusco | 1 | 2021-01-30 to 2021-01-30 |
+| `ordenanza-regional-163-2019-cr-grc-cusco` | Ordenanza Regional N° 163-2019-CR/GRC.CUSCO: Declaran de necesidad pública la priorización de la mano de obra regional - local en la convocatoria de nuevos puestos de trabajo y califican como infracción muy grave el despido de trabajadores peruanos para la inmediata contratación de personal extranje | 1 | 2019-07-22 to 2019-07-22 |
+| `ordenanza-regional-150-2018-cr-grc-cusco` | Ordenanza Regional N° 150-2018-CR/GRC.CUSCO: Crean Grupo Técnico para la elaboración de la Estrategia y Plan de Acción de Diversidad Biológica de la Región Cusco | 1 | 2019-07-11 to 2019-07-11 |
+| `ordenanza-regional-145-2018-cr-grc-cusco` | Ordenanza Regional N° 145-2018-CR/GRC.CUSCO: Aprueban el nuevo Código de Ética del Gobierno Regional Cusco | 1 | 2019-02-03 to 2019-02-03 |
+| `ordenanza-regional-132-2017-cr-grc-cusco` | Ordenanza Regional N° 132-2017-CR/GRC.CUSCO: Disponen que la designación de los Directores Regionales Sectoriales del Gobierno Regional de Cusco deben ser realizados mediante Concurso Público de Méritos | 1 | 2019-02-03 to 2019-02-03 |
+| `ordenanza-regional-146-2018-cr-grc-cusco` | Ordenanza Regional N° 146-2018-CR/GRC.CUSCO: Aprueban la "Actualización del Sistema Regional de Gestión Ambiental - SRGA de Cusco ” | 1 | 2018-12-23 to 2018-12-23 |
+| `ordenanza-regional-139-2018-cr-grc-cusco` | Ordenanza Regional N° 139-2018-CR/GRC.CUSCO: Modifican el artículo primero y segundo de la Ordenanza Regional N° 092-2015-CR/GRC.CUSCO | 1 | 2018-10-13 to 2018-10-13 |
+| `ordenanza-regional-125-2017-cr-grc-cusco` | Ordenanza Regional N° 125-2017-CR/GRC.CUSCO.: Aprueban la creación de la Instancia Regional de Concertación para erradicar la Violencia contra las Mujeres y los Integrantes del Grupo Familiar de la Región Cusco | 1 | 2018-02-25 to 2018-02-25 |
 
-The build made 119 commits:
+The build made 131 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 119 | first version of an act |
+| 131 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 119 laws in the record.
-- 238 tags.
+- 132 laws in the record.
+- 262 tags.
 
 ## Dates
 
@@ -158,13 +171,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `694a87d18f3966bae7a01cc703f40ec4d696c3601ca8b7f1a31a83ac88c78471` (1945702 bytes).
+- Corpus: sha256 `80244b09e27a73e607e297ba1b115e8af1655d3b3b9b1da05fecd8f1044964d0` (2175307 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-119 versions of 119 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

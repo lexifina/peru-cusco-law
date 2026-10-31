@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-119 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+132 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -131,6 +131,19 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-052-2013-cr-grc-cusco/` | Ordenanza Regional N° 052-2013-CR/GRC.CUSCO: Aprueban documento denominado "Acuerdo por el Cusco", suscrito por los representantes y candidatos de diversos part… | in force 23 November 2013 |
 | `ordenanza-regional-010-2011-cr-grc-cusco/` | Ordenanza Regional N° 010-2011-CR/GRC.CUSCO: Aprueban el "Plan Regional Concertado de Saneamiento Básico del Cusco al 2021" | in force 20 January 2012 |
 | `ordenanza-regional-049-2013-cr-grc-cusco/` | Ordenanza Regional N° 049-2013-CR/GRC.CUSCO: Aprueban Reglamento Interno de Organización y Funciones del Consejo Regional del Gobierno Regional del Cusco | in force 29 March 2013 |
+| `ordenanza-regional-289-2026-crc-grc/` | Ordenanza Regional N° 289-2026-CRC/GRC: Modifican el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional de Cusco | in force 6 November 2026 |
+| `ordenanza-regional-191-2021cr-gr-cusco/` | Ordenanza Regional N° 191-2021CR/GR.CUSCO: Disponen la creación del Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Cusco | in force 16 July 2021 |
+| `ordenanza-regional-187-2020-cr-gr-cusco/` | Ordenanza Regional N° 187-2020-CR/GR CUSCO: Aprueban la conformación del Consejo Regional de Seguridad Alimentaria y Nutricional de Cusco - CORSA CUSCO | in force 29 June 2021 |
+| `ordenanza-regional-178-2020-cr-gr-cusco/` | Ordenanza Regional N° 178-2020-CR/GR CUSCO: Aprueban la creación del Consejo Regional para las Personas adultas Mayores del Ámbito del Gobierno Regional Cusco y… | in force 2 February 2021 |
+| `ordenanza-regional-157-2018-cr-grc-cusco/` | Ordenanza Regional N° 157-2018-CR/GRC.CUSCO: Crean el Consejo Regional de Integración de las Personas con Discapacidad en la Región Cusco - COREDIS e implementa… | in force 2 February 2021 |
+| `ordenanza-regional-158-2018-cr-grc-cusco/` | Ordenanza Regional N° 158-2018-CR/GRC.CUSCO: Declaran de interés regional la Zonificación Forestal del departamento de Cusco | in force 30 January 2021 |
+| `ordenanza-regional-163-2019-cr-grc-cusco/` | Ordenanza Regional N° 163-2019-CR/GRC.CUSCO: Declaran de necesidad pública la priorización de la mano de obra regional - local en la convocatoria de nuevos pues… | in force 22 July 2019 |
+| `ordenanza-regional-150-2018-cr-grc-cusco/` | Ordenanza Regional N° 150-2018-CR/GRC.CUSCO: Crean Grupo Técnico para la elaboración de la Estrategia y Plan de Acción de Diversidad Biológica de la Región Cusc… | in force 11 July 2019 |
+| `ordenanza-regional-145-2018-cr-grc-cusco/` | Ordenanza Regional N° 145-2018-CR/GRC.CUSCO: Aprueban el nuevo Código de Ética del Gobierno Regional Cusco | in force 3 February 2019 |
+| `ordenanza-regional-132-2017-cr-grc-cusco/` | Ordenanza Regional N° 132-2017-CR/GRC.CUSCO: Disponen que la designación de los Directores Regionales Sectoriales del Gobierno Regional de Cusco deben ser reali… | in force 3 February 2019 |
+| `ordenanza-regional-146-2018-cr-grc-cusco/` | Ordenanza Regional N° 146-2018-CR/GRC.CUSCO: Aprueban la "Actualización del Sistema Regional de Gestión Ambiental - SRGA de Cusco ” | in force 23 December 2018 |
+| `ordenanza-regional-139-2018-cr-grc-cusco/` | Ordenanza Regional N° 139-2018-CR/GRC.CUSCO: Modifican el artículo primero y segundo de la Ordenanza Regional N° 092-2015-CR/GRC.CUSCO | in force 13 October 2018 |
+| `ordenanza-regional-125-2017-cr-grc-cusco/` | Ordenanza Regional N° 125-2017-CR/GRC.CUSCO.: Aprueban la creación de la Instancia Regional de Concertación para erradicar la Violencia contra las Mujeres y los… | in force 25 February 2018 |
 
 ## Source
 

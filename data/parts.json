@@ -153,6 +153,24 @@
     "ordenanza-regional-054-2013-cr-grc-cusco"
    ],
    "sha256": "305599124fa8d86166ebe8c8b6225c3236e804480cbe32bf666c0bdc03a01eee"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-125-2017-cr-grc-cusco",
+    "ordenanza-regional-132-2017-cr-grc-cusco",
+    "ordenanza-regional-139-2018-cr-grc-cusco",
+    "ordenanza-regional-145-2018-cr-grc-cusco",
+    "ordenanza-regional-146-2018-cr-grc-cusco",
+    "ordenanza-regional-150-2018-cr-grc-cusco",
+    "ordenanza-regional-157-2018-cr-grc-cusco",
+    "ordenanza-regional-158-2018-cr-grc-cusco",
+    "ordenanza-regional-163-2019-cr-grc-cusco",
+    "ordenanza-regional-178-2020-cr-gr-cusco",
+    "ordenanza-regional-187-2020-cr-gr-cusco",
+    "ordenanza-regional-191-2021cr-gr-cusco",
+    "ordenanza-regional-289-2026-crc-grc"
+   ],
+   "sha256": "f633159c4ad71ee9f2f392092c95a446e3c68f5fd30e57160c6523bd970469c2"
   }
  },
  "schema": 1
