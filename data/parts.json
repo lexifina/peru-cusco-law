@@ -1,0 +1,159 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-208-2021-cr-gr-cusco",
+    "ordenanza-regional-233-2023-cr-gr-cusco",
+    "ordenanza-regional-234-2023-cr-gr-cusco",
+    "ordenanza-regional-235-2023-cr-gr-cusco",
+    "ordenanza-regional-237-2023-cr-gr-cusco",
+    "ordenanza-regional-238-2023-cr-gr-cusco",
+    "ordenanza-regional-239-2023-cr-gr-cusco",
+    "ordenanza-regional-240-2023-cr-grc",
+    "ordenanza-regional-243-2023-cr-grc",
+    "ordenanza-regional-244-2023-cr-grc",
+    "ordenanza-regional-245-2023-cr-grc",
+    "ordenanza-regional-246-2023-cr-grc",
+    "ordenanza-regional-247-2024-cr-grc",
+    "ordenanza-regional-251-2024-cr-grc",
+    "ordenanza-regional-255-2024-cr-grc",
+    "ordenanza-regional-256-2024-cr-grc",
+    "ordenanza-regional-257-2024-cr-grc",
+    "ordenanza-regional-258-2024-cr-grc",
+    "ordenanza-regional-259-2024-cr-grc",
+    "ordenanza-regional-260-2024-cr-grc",
+    "ordenanza-regional-261-2024-cr-grc",
+    "ordenanza-regional-262-2024-cr-grc",
+    "ordenanza-regional-263-2025-crc-gr-cusco",
+    "ordenanza-regional-264-2025-cr-grc",
+    "ordenanza-regional-265-2025-cr-grc",
+    "ordenanza-regional-267-2025-crc-grc",
+    "ordenanza-regional-269-2025-crc-grc",
+    "ordenanza-regional-278-2026-crc-grc",
+    "ordenanza-regional-279-2026-crc-grc",
+    "ordenanza-regional-280-2026-crc-grc",
+    "ordenanza-regional-281-2026-crc-grc",
+    "ordenanza-regional-282-2026-crc-grc",
+    "ordenanza-regional-285-2026-crc-grc",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "84510d213941668474aa92e1dab19e9c4a2dc043bd533d700d659c86a3cf4a91"
+  },
+  "30-ordenanzas-02.json": {
+   "acts": [
+    "ordenanza-regional-159-2018-cr-grc-cusco",
+    "ordenanza-regional-164-2019-cr-grc-cusco",
+    "ordenanza-regional-165-2019-cr-grc-cusco",
+    "ordenanza-regional-170-2019-cr-grc-cusco",
+    "ordenanza-regional-171-2019-cr-grc-cusco",
+    "ordenanza-regional-172-2020-cr-gr-cusco",
+    "ordenanza-regional-174-2020-cr-gr-cusco",
+    "ordenanza-regional-175-2020-cr-gr-cusco",
+    "ordenanza-regional-176-2020-cr-gr-cusco",
+    "ordenanza-regional-179-2020-cr-gr-cusco",
+    "ordenanza-regional-180-2020-cr-gr-cusco",
+    "ordenanza-regional-188-2020-cr-gr-cusco",
+    "ordenanza-regional-192-2021-cr-gr-cusco",
+    "ordenanza-regional-194-2021-cr-gr-cusco",
+    "ordenanza-regional-195-2021-cr-gr-cusco",
+    "ordenanza-regional-196-2021-cr-gr-cusco",
+    "ordenanza-regional-198-2021-cr-gr-cusco",
+    "ordenanza-regional-199-2021-cr-gr-cusco",
+    "ordenanza-regional-200-2021-cr-gr-cusco",
+    "ordenanza-regional-201-2021-cr-gr-cusco",
+    "ordenanza-regional-204-2021-cr-gr-cusco",
+    "ordenanza-regional-205-2021-cr-gr-cusco",
+    "ordenanza-regional-206-2021-cr-gr-cusco",
+    "ordenanza-regional-209-2022-cr-gr-cusco",
+    "ordenanza-regional-210-2022-cr-gr-cusco",
+    "ordenanza-regional-211-2022-cr-gr-cusco",
+    "ordenanza-regional-212-2022-cr-gr-cusco",
+    "ordenanza-regional-214-2022-cr-gr-cusco",
+    "ordenanza-regional-216-2022-cr-gr-cusco",
+    "ordenanza-regional-217-2022-cr-gr-cusco",
+    "ordenanza-regional-218-2022-cr-gr-cusco",
+    "ordenanza-regional-221-2022-cr-gr-cusco",
+    "ordenanza-regional-224-2022-cr-gr-cusco",
+    "ordenanza-regional-225-2022-cr-gr-cusco",
+    "ordenanza-regional-227-2022-cr-gr-cusco",
+    "ordenanza-regional-228-2022-cr-gr-cusco",
+    "ordenanza-regional-231-2022-cr-gr-cusco",
+    "ordenanza-regional-232-2023-cr-gr-cusco"
+   ],
+   "sha256": "19f65e63fac3f4429077b7a6bdeb94b3474d94373b5df5d6f34ecf59cde5486a"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-272-2025-crc-grc",
+    "ordenanza-regional-273-2025-crc-grc"
+   ],
+   "sha256": "84bc18dc81a28b687392c1e17451823782c3cd605c29a1692f4949d0af473942"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-072-2014-cr-grc-cusco",
+    "ordenanza-regional-087-2015-cr-grc-cusco",
+    "ordenanza-regional-095-2015-cr-grc-cusco",
+    "ordenanza-regional-099-2015-cr-grc-cusco",
+    "ordenanza-regional-101-2015-cr-grc-cusco",
+    "ordenanza-regional-103-2015-cr-grc-cusco",
+    "ordenanza-regional-104-2015-cr-grc-cusco",
+    "ordenanza-regional-105-2015-cr-grc-cusco",
+    "ordenanza-regional-108-2016-cr-grc-cusco",
+    "ordenanza-regional-114-2016-cr-grc-cusco",
+    "ordenanza-regional-116-2016-cr-grc-cusco",
+    "ordenanza-regional-118-2016-cr-grc-cusco",
+    "ordenanza-regional-119-2016-cr-grc-cusco",
+    "ordenanza-regional-120-2016-fcr-grc-cusco",
+    "ordenanza-regional-121-2016-cr-grc-cusco",
+    "ordenanza-regional-122-2017-cr-grc-cusco",
+    "ordenanza-regional-124-2017-cr-grc-cusco",
+    "ordenanza-regional-126-2017-cr-grc-cusco",
+    "ordenanza-regional-127-2017-cr-grc-cusco",
+    "ordenanza-regional-128-2017-cr-grc-cusco",
+    "ordenanza-regional-131-2017-cr-grc-cusco",
+    "ordenanza-regional-133-2018-cr-grc-cusco",
+    "ordenanza-regional-136-2018-cr-grc-cusco",
+    "ordenanza-regional-137-2018-cr-grc-cusco",
+    "ordenanza-regional-142-2018-cr-grc-cusco",
+    "ordenanza-regional-143-2018-cr-grc-cusco",
+    "ordenanza-regional-144-2018-cr-grc-cusco",
+    "ordenanza-regional-160-2018-cr-grc-cusco",
+    "ordenanza-regional-166-2019-cr-grc-cusco"
+   ],
+   "sha256": "d66553b0225ff852408db8176b0b25527e5a3d42a7db43832f90d8bc679b0d67"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-070-014-cr-grc-cusco",
+    "ordenanza-regional-080-2010-cr-grc-cusco",
+    "ordenanza-regional-083-2014-cr-grc-cusco",
+    "ordenanza-regional-090-2015-cr-grc-cusco",
+    "ordenanza-regional-092-2015-cr-grc-cusco",
+    "ordenanza-regional-094-2015-cr-grc-cusco",
+    "ordenanza-regional-096-2015-cr-grc-cusco",
+    "ordenanza-regional-100-2015-cr-grc-cusco"
+   ],
+   "sha256": "65351cb0f8a2dadcf475e01d319c483b135749d605d79773a1f8e8ae06e5872d"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-063-2009-cr-grc-cusco",
+    "ordenanza-regional-077-2010-cr-grc-cusco"
+   ],
+   "sha256": "b5cba9172f135165b6d53c745b7c33756f3352fb690084da4f427552accc2307"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-009-2011-gr-grc-cusco",
+    "ordenanza-regional-010-2011-cr-grc-cusco",
+    "ordenanza-regional-037-2012-cr-grc-cusco",
+    "ordenanza-regional-049-2013-cr-grc-cusco",
+    "ordenanza-regional-052-2013-cr-grc-cusco",
+    "ordenanza-regional-054-2013-cr-grc-cusco"
+   ],
+   "sha256": "305599124fa8d86166ebe8c8b6225c3236e804480cbe32bf666c0bdc03a01eee"
+  }
+ },
+ "schema": 1
+}
