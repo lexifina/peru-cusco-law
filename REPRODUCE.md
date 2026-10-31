@@ -192,20 +192,48 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-008-2011-cr-grc-cusco` | Ordenanza Regional N° 008-2011-CR/GRC.CUSCO: Establecen como Política Pública y Prioridad del Gobierno Regional del Cusco la lucha frontal contra la pobreza y extrema pobreza | 1 | 2011-10-23 to 2011-10-23 |
 | `ordenanza-regional-006-2011-cr-grc-cusco` | Ordenanza Regional N° 006-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Turismo - CORETUR | 1 | 2011-10-08 to 2011-10-08 |
 | `ordenanza-regional-011-2011-cr-grc-cusco` | Ordenanza Regional N° 011-2011-CR/GRC.CUSCO: Crean el Comité Especial de Promoción de la Inversión Privada del Gobierno Regional del Cusco - CEPRI CUSCO | 1 | 2011-09-25 to 2011-09-25 |
+| `ordenanza-regional-001-2011-cr-grc-cusco` | Ordenanza Regional N° 001-2011-CR/GRC.CUSCO: Declaran de prioridad regional la protección, conservación y ordenamiento del Santuario Religioso del Señor de Qoyllorit´i, en el distrito de Ocongate, provincia de Quispicanchi | 1 | 2011-09-18 to 2011-09-18 |
+| `ordenanza-regional-088-2010-cr-grc-cusco` | Ordenanza Regional N° 088-2010-CR/GRC.CUSCO: Disponen que el ingreso y acceso al Servicio Público Regional se realice por Concurso Público Abierto para personal contratado | 1 | 2011-07-17 to 2011-07-17 |
+| `ordenanza-regional-002-2011-cr-grc-cusco` | Ordenanza Regional N° 002-2011-CR/GRC. CUSCO: Aprueban Reglamento del Proceso del Presupuesto Participativo Multianual Basado en Resultados y Programas de Desarrollo 2012-2014 del Gobierno Regional del Cusco | 1 | 2011-07-16 to 2011-07-16 |
+| `ordenanza-regional-083-2010-cr-grc-cusco` | Ordenanza Regional N° 083-2010-CR/GRC.CUSCO: Declaran de necesidad pública regional la conservación y uso sostenible de los recursos hídricos de la laguna de Ccaccansa y la cuenca del río Velille | 1 | 2011-04-30 to 2011-04-30 |
+| `ordenanza-regional-085-2010-cr-grc-cusco` | Ordenanza Regional N° 085-2010-CR/GRC.CUSCO: Crean el Consejo Regional de la Juventud de Cusco, COREJU-CUSCO | 1 | 2011-04-30 to 2011-04-30 |
+| `ordenanza-regional-084-2010-cr-grc-cusco` | Ordenanza Regional N° 084-2010-CR/GRC.CUSCO: Reconocen y aprueban la conformación del Comité de Vigilancia del Presupuesto Participativo 2011 del Gobierno Regional de Cusco | 1 | 2011-03-07 to 2011-03-07 |
+| `ordenanza-regional-086-2010-cr-grc-cusco` | Ordenanza Regional N° 086-2010-CR/GRC.CUSCO: Aprueban el TUPA del Gobierno Regional de Cusco | 1 | 2010-12-21 to 2010-12-21 |
+| `ordenanza-regional-081-2010-cr-grc-cusco` | Ordenanza Regional N° 081-2010-CR/GRC.CUSCO: Aprueban el Plan Estratégico de Desarrollo Regional Concertado Cusco al 2021 | 1 | 2010-12-12 to 2010-12-12 |
+| `ordenanza-regional-078-2010-cr-grc-cusco` | Ordenanza Regional N° 078-2010-CR/GRC.CUSCO: Disponen que el Ejecutivo del Gobierno Regional convoque a los miembros del Consejo Directivo del Parque Industrial del Cusco para que procedan con su instalación | 1 | 2010-12-09 to 2010-12-09 |
+| `ordenanza-regional-072-2010-cr-grc-cusco` | Ordenanza Regional N° 072-2010-CR/GRC.CUSCO: Aprueban el Plan Estratégico Regional de Turismo Cusco - PERTUR Cusco | 1 | 2010-09-18 to 2010-09-18 |
+| `ordenanza-regional-073-2010-cr-grc-cusco` | Ordenanza Regional N° 073-2010-CR/GRC.CUSCO: Convocan y dan inicio al Proceso de Presupuesto Participativo en el Gobierno Regional Cusco, correspondiente al ejercicio fiscal 2011 | 1 | 2010-09-18 to 2010-09-18 |
+| `ordenanza-regional-066-2009-cr-grc-cusco` | Ordenanza Regional N° 066-2009-CR/GRC.CUSCO: Crean el Comité Regional de Promoción de la Industria del Mueble y afines | 1 | 2010-08-16 to 2010-08-16 |
+| `ordenanza-regional-071-2010-cr-grc-cusco` | Ordenanza Regional N° 071-2010-CR/GRC.CUSCO: Disponen uso obligatorio de una prenda de cabeza como parte del uniforme para los escolares de los niveles inicial, primaria y secundaria en todo el ámbito de la Región Cusco | 1 | 2010-06-20 to 2010-06-20 |
+| `ordenanza-regional-070-2010-cr-grc-cusco` | Ordenanza Regional N° 070-2010-CR/GRC.CUSCO: Crean el Grupo Técnico Regional frente al Cambio Climático del Cusco | 1 | 2010-04-29 to 2010-04-29 |
+| `ordenanza-regional-068-2010-cr-grc-cusco` | Ordenanza Regional N° 068-2010-CR/GRC.CUSCO: Declaran de necesidad pública y prioridad regional la "Defensa de la Faja Marginal del Río Vilcanota y Afluentes" en la Región del Cusco | 1 | 2010-04-18 to 2010-04-18 |
+| `ordenanza-regional-067-2010-cr-grc-cusco` | Ordenanza Regional N° 067-2010-CR/GRC.CUSCO: Crean el Comité Técnico Regional de Seguridad y Salud en el Trabajo de los Estibadores Terrestres y Transportistas Manuales del Gobierno Regional del Cusco | 1 | 2010-03-22 to 2010-03-22 |
+| `ordenanza-regional-064-2009-cr-grc-cusco` | Ordenanza Regional N° 064-2009-CR/GRC.CUSCO: Aprueban Plan Regional de Cooperación Internacional No Reembolsable de la Región Cusco 2009 - 2013 | 1 | 2010-03-19 to 2010-03-19 |
+| `ordenanza-regional-062-2009-cr-grc-cusco` | Ordenanza Regional N° 062-2009-CR/GRC.CUSCO: Disponen promover la utilización del lenguaje sensible al género o lenguaje inclusivo en la expresión verbal y en la redacción escrita de comunicaciones y documentos del Gobierno Regional, así como promover su uso en la población de la región | 1 | 2010-03-19 to 2010-03-19 |
+| `ordenanza-regional-060-2009-cr-grc-cusco` | Ordenanza Regional N° 060-2009-CR/GRC.CUSCO: Modifican la Ordenanza N° 014-2007-CR/GRC.CUSCO mediante la cual se conformó el Consejo Regional de la Mujer de Cusco | 1 | 2010-03-19 to 2010-03-19 |
+| `ordenanza-regional-058-2009-cr-grc-cusco` | Ordenanza Regional N° 058-2009-CR/GRC.CUSCO: Crean el Comité Regional de Planeamiento Estratégico de la Región Cusco | 1 | 2009-11-26 to 2009-11-26 |
+| `ordenanza-regional-059-2009-cr-grc-cusco` | Ordenanza Regional N° 059-2009-CR/GRC.CUSCO: Declaran de prioridad el desarrollo de políticas de salud a favor de la promoción del ejercicio de la sexualidad saludable, del desarrollo de programas de prevención de las Infecciones de Transmisión Sexual y del VIH, y la detección temprana y el tratamie | 1 | 2009-10-01 to 2009-10-01 |
+| `ordenanza-regional-056-2009-cr-grc-cusco` | Ordenanza Regional N° 056-2009-CR/GRC.CUSCO: Crean el Consejo Regional del Trabajo y Promoción del Empleo - Cusco | 1 | 2009-09-10 to 2009-09-10 |
+| `ordenanza-regional-055-2009-cr-grc-cusco` | Ordenanza Regional N° 055-2009-CR/GRC.CUSCO: Conforman el Consejo Regional de Seguridad Vial - CORESEVI | 1 | 2009-07-24 to 2009-07-24 |
+| `ordenanza-regional-053-2009-cr-grc-cusco` | Ordenanza Regional N° 053-2009-CR/GRC.CUSCO: Convocan y dan inicio al Proceso de Presupuesto Participativo en el Gobierno Regional de Cusco correspondiente al ejercicio fiscal 2010 | 1 | 2009-06-11 to 2009-06-11 |
+| `ordenanza-regional-054-2009-cr-grc-cusco` | Ordenanza Regional N° 054-2009-CR/GRC.CUSCO: Dictan disposiciones para ejercer la actividad de Guía de Turismo en el ámbito de la Región Cusco | 1 | 2009-06-11 to 2009-06-11 |
+| `ordenanza-regional-050-2009-cr-grc-cusco` | Ordenanza Regional N° 050-2009-CR/GRC.CUSCO: Declaran de interés público la protección y conservación ambiental de áreas priorizadas para la conservación regional | 1 | 2009-05-23 to 2009-05-23 |
+| `ordenanza-regional-052-2009-gr-grc-cusco` | Ordenanza Regional N° 052-2009-GR/GRC.CUSCO: Declaran zona ecológica de primer orden a las Cuatro Lagunas y al valle de Acomayo - Acos | 1 | 2009-04-20 to 2009-04-20 |
+| `ordenanza-regional-051-2009-gr-grc-cusco` | Ordenanza Regional N° 051-2009-GR/GRC.CUSCO: Aprueban Plan Regional de Igualdad de Oportunidades para Mujeres y Varones del Cusco 2009 - 2015 | 1 | 2009-04-20 to 2009-04-20 |
 
-The build made 177 commits:
+The build made 205 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 177 | first version of an act |
+| 205 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 178 laws in the record.
-- 354 tags.
+- 206 laws in the record.
+- 410 tags.
 
 ## Dates
 
@@ -217,7 +245,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6c41d42333a2fdb038276873e329c935949d4c95b29b08042e0ed802cb612b8b` (2717148 bytes).
+- Corpus: sha256 `560582ea56c08da4aa97ee0462fbbdee03eab17f4cf462e3624b496c3e8dad48` (2978574 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

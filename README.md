@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-178 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+206 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -190,6 +190,34 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-008-2011-cr-grc-cusco/` | Ordenanza Regional N° 008-2011-CR/GRC.CUSCO: Establecen como Política Pública y Prioridad del Gobierno Regional del Cusco la lucha frontal contra la pobreza y e… | in force 23 October 2011 |
 | `ordenanza-regional-006-2011-cr-grc-cusco/` | Ordenanza Regional N° 006-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Turismo - CORETUR | in force 8 October 2011 |
 | `ordenanza-regional-011-2011-cr-grc-cusco/` | Ordenanza Regional N° 011-2011-CR/GRC.CUSCO: Crean el Comité Especial de Promoción de la Inversión Privada del Gobierno Regional del Cusco - CEPRI CUSCO | in force 25 September 2011 |
+| `ordenanza-regional-001-2011-cr-grc-cusco/` | Ordenanza Regional N° 001-2011-CR/GRC.CUSCO: Declaran de prioridad regional la protección, conservación y ordenamiento del Santuario Religioso del Señor de Qoyl… | in force 18 September 2011 |
+| `ordenanza-regional-088-2010-cr-grc-cusco/` | Ordenanza Regional N° 088-2010-CR/GRC.CUSCO: Disponen que el ingreso y acceso al Servicio Público Regional se realice por Concurso Público Abierto para personal… | in force 17 July 2011 |
+| `ordenanza-regional-002-2011-cr-grc-cusco/` | Ordenanza Regional N° 002-2011-CR/GRC. CUSCO: Aprueban Reglamento del Proceso del Presupuesto Participativo Multianual Basado en Resultados y Programas de Desar… | in force 16 July 2011 |
+| `ordenanza-regional-083-2010-cr-grc-cusco/` | Ordenanza Regional N° 083-2010-CR/GRC.CUSCO: Declaran de necesidad pública regional la conservación y uso sostenible de los recursos hídricos de la laguna de Cc… | in force 30 April 2011 |
+| `ordenanza-regional-085-2010-cr-grc-cusco/` | Ordenanza Regional N° 085-2010-CR/GRC.CUSCO: Crean el Consejo Regional de la Juventud de Cusco, COREJU-CUSCO | in force 30 April 2011 |
+| `ordenanza-regional-084-2010-cr-grc-cusco/` | Ordenanza Regional N° 084-2010-CR/GRC.CUSCO: Reconocen y aprueban la conformación del Comité de Vigilancia del Presupuesto Participativo 2011 del Gobierno Regio… | in force 7 March 2011 |
+| `ordenanza-regional-086-2010-cr-grc-cusco/` | Ordenanza Regional N° 086-2010-CR/GRC.CUSCO: Aprueban el TUPA del Gobierno Regional de Cusco | in force 21 December 2010 |
+| `ordenanza-regional-081-2010-cr-grc-cusco/` | Ordenanza Regional N° 081-2010-CR/GRC.CUSCO: Aprueban el Plan Estratégico de Desarrollo Regional Concertado Cusco al 2021 | in force 12 December 2010 |
+| `ordenanza-regional-078-2010-cr-grc-cusco/` | Ordenanza Regional N° 078-2010-CR/GRC.CUSCO: Disponen que el Ejecutivo del Gobierno Regional convoque a los miembros del Consejo Directivo del Parque Industrial… | in force 9 December 2010 |
+| `ordenanza-regional-072-2010-cr-grc-cusco/` | Ordenanza Regional N° 072-2010-CR/GRC.CUSCO: Aprueban el Plan Estratégico Regional de Turismo Cusco - PERTUR Cusco | in force 18 September 2010 |
+| `ordenanza-regional-073-2010-cr-grc-cusco/` | Ordenanza Regional N° 073-2010-CR/GRC.CUSCO: Convocan y dan inicio al Proceso de Presupuesto Participativo en el Gobierno Regional Cusco, correspondiente al eje… | in force 18 September 2010 |
+| `ordenanza-regional-066-2009-cr-grc-cusco/` | Ordenanza Regional N° 066-2009-CR/GRC.CUSCO: Crean el Comité Regional de Promoción de la Industria del Mueble y afines | in force 16 August 2010 |
+| `ordenanza-regional-071-2010-cr-grc-cusco/` | Ordenanza Regional N° 071-2010-CR/GRC.CUSCO: Disponen uso obligatorio de una prenda de cabeza como parte del uniforme para los escolares de los niveles inicial,… | in force 20 June 2010 |
+| `ordenanza-regional-070-2010-cr-grc-cusco/` | Ordenanza Regional N° 070-2010-CR/GRC.CUSCO: Crean el Grupo Técnico Regional frente al Cambio Climático del Cusco | in force 29 April 2010 |
+| `ordenanza-regional-068-2010-cr-grc-cusco/` | Ordenanza Regional N° 068-2010-CR/GRC.CUSCO: Declaran de necesidad pública y prioridad regional la "Defensa de la Faja Marginal del Río Vilcanota y Afluentes" e… | in force 18 April 2010 |
+| `ordenanza-regional-067-2010-cr-grc-cusco/` | Ordenanza Regional N° 067-2010-CR/GRC.CUSCO: Crean el Comité Técnico Regional de Seguridad y Salud en el Trabajo de los Estibadores Terrestres y Transportistas … | in force 22 March 2010 |
+| `ordenanza-regional-064-2009-cr-grc-cusco/` | Ordenanza Regional N° 064-2009-CR/GRC.CUSCO: Aprueban Plan Regional de Cooperación Internacional No Reembolsable de la Región Cusco 2009 - 2013 | in force 19 March 2010 |
+| `ordenanza-regional-062-2009-cr-grc-cusco/` | Ordenanza Regional N° 062-2009-CR/GRC.CUSCO: Disponen promover la utilización del lenguaje sensible al género o lenguaje inclusivo en la expresión verbal y en l… | in force 19 March 2010 |
+| `ordenanza-regional-060-2009-cr-grc-cusco/` | Ordenanza Regional N° 060-2009-CR/GRC.CUSCO: Modifican la Ordenanza N° 014-2007-CR/GRC.CUSCO mediante la cual se conformó el Consejo Regional de la Mujer de Cus… | in force 19 March 2010 |
+| `ordenanza-regional-058-2009-cr-grc-cusco/` | Ordenanza Regional N° 058-2009-CR/GRC.CUSCO: Crean el Comité Regional de Planeamiento Estratégico de la Región Cusco | in force 26 November 2009 |
+| `ordenanza-regional-059-2009-cr-grc-cusco/` | Ordenanza Regional N° 059-2009-CR/GRC.CUSCO: Declaran de prioridad el desarrollo de políticas de salud a favor de la promoción del ejercicio de la sexualidad sa… | in force 1 October 2009 |
+| `ordenanza-regional-056-2009-cr-grc-cusco/` | Ordenanza Regional N° 056-2009-CR/GRC.CUSCO: Crean el Consejo Regional del Trabajo y Promoción del Empleo - Cusco | in force 10 September 2009 |
+| `ordenanza-regional-055-2009-cr-grc-cusco/` | Ordenanza Regional N° 055-2009-CR/GRC.CUSCO: Conforman el Consejo Regional de Seguridad Vial - CORESEVI | in force 24 July 2009 |
+| `ordenanza-regional-053-2009-cr-grc-cusco/` | Ordenanza Regional N° 053-2009-CR/GRC.CUSCO: Convocan y dan inicio al Proceso de Presupuesto Participativo en el Gobierno Regional de Cusco correspondiente al e… | in force 11 June 2009 |
+| `ordenanza-regional-054-2009-cr-grc-cusco/` | Ordenanza Regional N° 054-2009-CR/GRC.CUSCO: Dictan disposiciones para ejercer la actividad de Guía de Turismo en el ámbito de la Región Cusco | in force 11 June 2009 |
+| `ordenanza-regional-050-2009-cr-grc-cusco/` | Ordenanza Regional N° 050-2009-CR/GRC.CUSCO: Declaran de interés público la protección y conservación ambiental de áreas priorizadas para la conservación region… | in force 23 May 2009 |
+| `ordenanza-regional-052-2009-gr-grc-cusco/` | Ordenanza Regional N° 052-2009-GR/GRC.CUSCO: Declaran zona ecológica de primer orden a las Cuatro Lagunas y al valle de Acomayo - Acos | in force 20 April 2009 |
+| `ordenanza-regional-051-2009-gr-grc-cusco/` | Ordenanza Regional N° 051-2009-GR/GRC.CUSCO: Aprueban Plan Regional de Igualdad de Oportunidades para Mujeres y Varones del Cusco 2009 - 2015 | in force 20 April 2009 |
 
 ## Source
 

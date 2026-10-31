@@ -222,6 +222,39 @@
     "ordenanza-regional-087-2010-cr-grc-cusco"
    ],
    "sha256": "9f9bf8342e0780f0e904a672e1f37e8d61dc19bc0020ee39b9c6e4c772364cc5"
+  },
+  "33-runner-03.json": {
+   "acts": [
+    "ordenanza-regional-001-2011-cr-grc-cusco",
+    "ordenanza-regional-002-2011-cr-grc-cusco",
+    "ordenanza-regional-050-2009-cr-grc-cusco",
+    "ordenanza-regional-051-2009-gr-grc-cusco",
+    "ordenanza-regional-052-2009-gr-grc-cusco",
+    "ordenanza-regional-053-2009-cr-grc-cusco",
+    "ordenanza-regional-054-2009-cr-grc-cusco",
+    "ordenanza-regional-055-2009-cr-grc-cusco",
+    "ordenanza-regional-056-2009-cr-grc-cusco",
+    "ordenanza-regional-058-2009-cr-grc-cusco",
+    "ordenanza-regional-059-2009-cr-grc-cusco",
+    "ordenanza-regional-060-2009-cr-grc-cusco",
+    "ordenanza-regional-062-2009-cr-grc-cusco",
+    "ordenanza-regional-064-2009-cr-grc-cusco",
+    "ordenanza-regional-066-2009-cr-grc-cusco",
+    "ordenanza-regional-067-2010-cr-grc-cusco",
+    "ordenanza-regional-068-2010-cr-grc-cusco",
+    "ordenanza-regional-070-2010-cr-grc-cusco",
+    "ordenanza-regional-071-2010-cr-grc-cusco",
+    "ordenanza-regional-072-2010-cr-grc-cusco",
+    "ordenanza-regional-073-2010-cr-grc-cusco",
+    "ordenanza-regional-078-2010-cr-grc-cusco",
+    "ordenanza-regional-081-2010-cr-grc-cusco",
+    "ordenanza-regional-083-2010-cr-grc-cusco",
+    "ordenanza-regional-084-2010-cr-grc-cusco",
+    "ordenanza-regional-085-2010-cr-grc-cusco",
+    "ordenanza-regional-086-2010-cr-grc-cusco",
+    "ordenanza-regional-088-2010-cr-grc-cusco"
+   ],
+   "sha256": "6358c0c30101368118e22887d8ca36db04edf07eb38157422cf0dcb7f8bc7c21"
   }
  },
  "schema": 1
