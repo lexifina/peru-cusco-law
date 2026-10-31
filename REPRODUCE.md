@@ -146,20 +146,66 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-146-2018-cr-grc-cusco` | Ordenanza Regional N° 146-2018-CR/GRC.CUSCO: Aprueban la "Actualización del Sistema Regional de Gestión Ambiental - SRGA de Cusco ” | 1 | 2018-12-23 to 2018-12-23 |
 | `ordenanza-regional-139-2018-cr-grc-cusco` | Ordenanza Regional N° 139-2018-CR/GRC.CUSCO: Modifican el artículo primero y segundo de la Ordenanza Regional N° 092-2015-CR/GRC.CUSCO | 1 | 2018-10-13 to 2018-10-13 |
 | `ordenanza-regional-125-2017-cr-grc-cusco` | Ordenanza Regional N° 125-2017-CR/GRC.CUSCO.: Aprueban la creación de la Instancia Regional de Concertación para erradicar la Violencia contra las Mujeres y los Integrantes del Grupo Familiar de la Región Cusco | 1 | 2018-02-25 to 2018-02-25 |
+| `ordenanza-regional-056-2013-cr-grc-cusco` | Ordenanza Regional N° 056-2013-CR/GRC.CUSCO: Declaran  de interés social y necesidad pública del Gobierno Regional Cusco, fomentar, fortalecer y desarrollar la asociatividad a nivel de las organizaciones comunales encargadas de la prestación de los servicios de agua de uso poblacional o Juntas Admin | 1 | 2013-12-19 to 2013-12-19 |
+| `ordenanza-regional-057-2013-cr-grc-cusco` | Ordenanza Regional N° 057-2013-CR/GRC.CUSCO: Autorizan se lleve a cabo proceso de reasignación excepcional del personal docente y  auxiliar de educación | 1 | 2013-11-28 to 2013-11-28 |
+| `ordenanza-regional-047-2013-cr-grc-cusco` | Ordenanza Regional N° 047-2013-CR/GRC.CUSCO: Prohiben la quema de pastos, plantaciones forestales y bosques naturales en la Región Cusco | 1 | 2013-11-23 to 2013-11-23 |
+| `ordenanza-regional-053-2013-cr-grc-cusco` | Ordenanza Regional N° 053-2013-CR/GRC.CUSCO: Aprueban el "Plan Vial Departamental Participativo del Cusco - 2012 -2021" | 1 | 2013-11-23 to 2013-11-23 |
+| `ordenanza-regional-048-2013-cr-grc-cusco` | Ordenanza Regional N° 048-2013-CR/GRC.CUSCO: Aprueban el Cuadro para Asignación de Personal - CAP de la Unidad de Gestión Educativa Local de Pichari - Quimbiri - Villa Virgen  La Convención | 1 | 2013-07-06 to 2013-07-06 |
+| `ordenanza-regional-046-2013-cr-grc-cusco` | Ordenanza Regional N° 046-2013-CR/GRC.CUSCO: Aprueban Reglamento de Organización y Funciones - ROF del Gobierno Regional del Cusco | 1 | 2013-06-02 to 2013-06-02 |
+| `ordenanza-regional-050-2013-cr-grc-cusco` | Ordenanza Regional N° 050-2013-CR/GRC.CUSCO: Modifican la Ordenanza N° 015-2011-CR/GRC.CUSCO en lo referente a la conformación del grupo impulsor para la conformación del Consejo de Recursos Hídricos de la Cuenca del Vilcanota - Urubamba | 1 | 2013-05-17 to 2013-05-17 |
+| `ordenanza-regional-051-2013-cr-grc-cusco` | Ordenanza Regional N° 051-2013-CR/GRC.CUSCO: Declaran a la Central de Cooperativas Té Huyro Ltda. N° 43 como Patrimonio Regional Agroindustrial de la Región Cusco | 1 | 2013-05-17 to 2013-05-17 |
+| `ordenanza-regional-043-2012-cr-grc-cusco` | Ordenanza Regional N° 043-2012-CR/GRC.CUSCO: Aprueban la Política Regional para afrontar la proliferación del trabajo infantil en el ámbito de la Región Cusco | 1 | 2013-02-16 to 2013-02-16 |
+| `ordenanza-regional-023-2012-cr-grc-cusco` | Ordenanza Regional N° 023-2012-CR/GRC.CUSCO: Disponen promover y fomentar el Desarrollo del Cultivo de la Morera, Crianza del Gusano de Seda y Sericultura en la Región Cusco | 1 | 2013-02-16 to 2013-02-16 |
+| `ordenanza-regional-044-2012-cr-grc-cusco` | Ordenanza Regional N° 044-2012-CR/GRC.CUSCO: Declaran como prioridad del Gobierno Regional de Cusco promover el Derecho a la Salud de la Maternidad Saludable y Segura | 1 | 2012-12-02 to 2012-12-02 |
+| `ordenanza-regional-041-2012-cr-grc-cusco` | Ordenanza Regional N° 041-2012-CR/GRC.CUSCO: Crean el Consejo Regional de la Micro y Pequeña Empresa COREMYPE en la Región Cusco | 1 | 2012-12-02 to 2012-12-02 |
+| `ordenanza-regional-045-2012-cr-grc-cusco` | Ordenanza Regional N° 045-2012-CR/GRC.CUSCO: Instituyen el Premio Regional de Literatura Quechua Amauta | 1 | 2012-12-02 to 2012-12-02 |
+| `ordenanza-regional-042-2012-cr-grc-cusco` | Ordenanza Regional N° 042-2012-CR/GRC.CUSCO: Disponen la promoción del reemplazo progresivo de Sistemas de Riego Tradicional en el Sector Agrícola en el ámbito de la Región Cusco, mediante Sistemas de riego tecnificado | 1 | 2012-12-02 to 2012-12-02 |
+| `ordenanza-regional-029-2012-cr-grc-cusco` | Ordenanza Regional N° 029-2012-CR/GRC.CUSCO: Declaran de Necesidad y Prioridad Regional la Lucha Contra el Uso y Consumo de Drogas en la Región del Cusco. | 1 | 2012-11-20 to 2012-11-20 |
+| `ordenanza-regional-027-2012-cr-grc-cusco` | Ordenanza Regional N° 027-2012-CR/GRC.CUSCO: Declaran de Prioridad Regional, la preservación, conservación, promoción, difusión y gestión cultural del PuenteInka de Q'eswachaka, distrito de Quehue, provincia de Canas Región Cusco | 1 | 2012-11-20 to 2012-11-20 |
+| `ordenanza-regional-032-2012-cr-grc-cusco` | Ordenanza Regional N° 032-2012-CR/GRC.CUSCO: Declaran de Necesidad y Prioridad Regional la Atención Integral de la Primera Infancia y a las Madres Gestantes como Base del Desarrollo Regional del Cusco. | 1 | 2012-11-20 to 2012-11-20 |
+| `ordenanza-regional-028-2012-cr-grc-cusco` | Ordenanza Regional N° 028-2012-CR/GRC.CUSCO: Declaran de Prioridad Regional, multisectorial y orgánica la Lucha Contra la Tuberculosis en la Región del Cusco. | 1 | 2012-11-20 to 2012-11-20 |
+| `ordenanza-regional-036-2012-cr-grc-cusco` | Ordenanza Regional N° 036-2012-CR/GRC.CUSCO: Crean el Sistema Regional de Áreas de Conservación de la Región Cusco (SIRAC) | 1 | 2012-11-17 to 2012-11-17 |
+| `ordenanza-regional-033-2012-cr-grc-cusco` | Ordenanza Regional N° 033-2012-CR/GRC. CUSCO: Crean la Unidad de Gestión Educativa Local Pichari - Kimbiri - Villa Virgen La Convención, en el Valle de los Ríos Apurímac y Ene - VRAE | 1 | 2012-11-11 to 2012-11-11 |
+| `ordenanza-regional-040-2012-cr-grc-cusco` | Ordenanza Regional N° 040-2012-CR/GRC.CUSCO: Disponen como política pública regional promover el desarrollo de la industria petroquímica básica e intermedia a través de los Complejos Petroquímicos Descentralizados en la Región Cusco | 1 | 2012-10-21 to 2012-10-21 |
+| `ordenanza-regional-039-2012-cr-grc-cusco` | Ordenanza Regional N° 039-2012-CR/GRC.CUSCO: Aprueban Plan Concertado de Competitividad Regional 2011 - 2021 | 1 | 2012-10-21 to 2012-10-21 |
+| `ordenanza-regional-035-2012-cr-grc-cusco` | Ordenanza Regional N° 035-2012-CR/GRC.CUSCO: Aprueban la Política Regional del Ambiente de la Región Cusco | 1 | 2012-08-25 to 2012-08-25 |
+| `ordenanza-regional-034-2012-cr-grc-cusco` | Ordenanza Regional N° 034-2012-CR/GRC.CUSCO: Declaran de necesidad pública regional y encargan al Ejecutivo Regional garantizar la coformulación intercultural del Plan de Desarrollo Inclusivo Territorial de los Pueblos Andinos y Amazónicos - PDITPAA de Cusco | 1 | 2012-08-25 to 2012-08-25 |
+| `ordenanza-regional-030-2012-cr-grc-cusco` | Ordenanza Regional N° 030-2012-CR/GRC.CUSCO: Crean el Consejo Regional de Ciencia, Tecnología e Innovación Tecnológica Cusco, CORCYTEC CUSCO | 1 | 2012-08-16 to 2012-08-16 |
+| `ordenanza-regional-031-2012-cr-grc-cusco` | Ordenanza Regional N° 031-2012-CR/GRC.CUSCO: Declaran de Interés Regional el Fortalecimiento de la Identidad Nacional a través del Comocimiento del Patrimonio Cultural en Niños y Adolescentes | 1 | 2012-07-28 to 2012-07-28 |
+| `ordenanza-regional-026-2012-cr-grc-cusco` | Ordenanza Regional N° 026-2012-CR/GRC.CUSCO: Modifican el Reglamento del Presupuesto Participativo Multianual Basado en Resultados y Programas de Desarrollo 2012-2014 | 1 | 2012-05-11 to 2012-05-11 |
+| `ordenanza-regional-015-2011-cr-grc-cusco` | Ordenanza Regional N° 015-2011-CR/GRC.CUSCO: Declaran de interés regional y necesidad pública la Gestión Integrada de Recursos Hídricos | 1 | 2012-04-20 to 2012-04-20 |
+| `ordenanza-regional-017-2011-cr-grc-cusco` | Ordenanza Regional N° 017-2011-CR/GRC.CUSCO: Declaran el 9 de diciembre como "Día contra la Corrupción" en el ámbito de la Región Cusco | 1 | 2012-04-17 to 2012-04-17 |
+| `ordenanza-regional-012-2011-cr-grc-cusco` | Ordenanza Regional N° 012-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Cultura del Gobierno Regional del Cusco | 1 | 2012-04-17 to 2012-04-17 |
+| `ordenanza-regional-013-2011-cr-grc-cusco` | Ordenanza Regional N° 013-2011-CR/GRC.CUSCO: Declaran de necesidad pública regional la construcción de edificio para el Centro de Operaciones de Emergencia Regional - COER Cusco | 1 | 2012-04-17 to 2012-04-17 |
+| `ordenanza-regional-003-2011-cr-grc-cusco` | Ordenanza Regional N° 003-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Concertación Agraria para la Reactivación del Desarrollo del Sector Agropecuario en la Región Cusco | 1 | 2012-03-30 to 2012-03-30 |
+| `ordenanza-regional-018-2011-cr-grc-cusco` | Ordenanza Regional N° 018-2011-CR/GRC.CUSCO: Crean Comité Técnico Especializado del Gobierno Regional del Cusco para la Zonificación Económica y Ecológica, y el Ordenamiento Territorial del departamento del Cusco | 1 | 2012-03-27 to 2012-03-27 |
+| `ordenanza-regional-020-2012-cr-grc-cusco` | Ordenanza Regional N° 020-2012-CR/GRC.CUSCO: Aprueban la Estrategia Regional frente al Cambio Climático de la Región Cusco | 1 | 2012-03-11 to 2012-03-11 |
+| `ordenanza-regional-019-2012-cr-grc-cusco` | Ordenanza Regional N° 019-2012-CR/GRC.CUSCO: Crean el Sistema de Información Ambiental Regional - SIAR de la Región Cusco | 1 | 2012-03-06 to 2012-03-06 |
+| `ordenanza-regional-016-2011-cr-grc-cusco` | Ordenanza Regional N° 016-2011-CR/GRC.CUSCO: Conforman la "Mesa Coordinadora de Descontaminación y Tratamiento Integral de la Sub Cuenca del Huatanay" | 1 | 2012-02-12 to 2012-02-12 |
+| `ordenanza-regional-014-2011-cr-grc-cusco` | Ordenanza Regional N° 014-2011-CR/GRC.CUSCO: Constituyen la Mesa REDD Cusco | 1 | 2012-01-28 to 2012-01-28 |
+| `ordenanza-regional-082-2010-cr-grc-cusco` | Ordenanza Regional N° 082-2010-CR/GRC.CUSCO: Crean la Comisión Ambiental Regional de la Región Cusco - CAR CUSCO | 1 | 2012-01-01 to 2012-01-01 |
+| `ordenanza-regional-079-2010-cr-grc-cusco` | Ordenanza Regional N° 079-2010-CR/GRC.CUSCO: Aprueban Plan PRENDE CUSCO - Agenda Regional por el Desarrollo Económico 2010 - 2018 del Gobierno Regional Cusco | 1 | 2012-01-01 to 2012-01-01 |
+| `ordenanza-regional-087-2010-cr-grc-cusco` | Ordenanza Regional N° 087-2010-CR/GRC.CUSCO: Aprueban Plan Regional de Operaciones de Emergencia del Gobierno Regional del Cusco | 1 | 2012-01-01 to 2012-01-01 |
+| `ordenanza-regional-005-2011-cr-grc-cusco` | Ordenanza Regional N° 005-2011-CR/GRC.CUSCO: Declaran el mes de abril como "Mes del Derecho al Nombre y a la Identidad" | 1 | 2011-12-01 to 2011-12-01 |
+| `ordenanza-regional-007-2011-cr-grc-cusco` | Ordenanza Regional N° 007-2011-CR/GRC.CUSCO: Crean el Sistema Regional de Planeamiento Estratégico de la Región Cusco - SIRPLAN CUSCO | 1 | 2011-12-01 to 2011-12-01 |
+| `ordenanza-regional-004-2011-cr-grc-cusco` | Ordenanza Regional N° 004-2011-CR/GRC.CUSCO: Crean la Oficina Regional para Atención a las Personas con Discapacidad - OREDIS CUSCO | 1 | 2011-10-23 to 2011-10-23 |
+| `ordenanza-regional-008-2011-cr-grc-cusco` | Ordenanza Regional N° 008-2011-CR/GRC.CUSCO: Establecen como Política Pública y Prioridad del Gobierno Regional del Cusco la lucha frontal contra la pobreza y extrema pobreza | 1 | 2011-10-23 to 2011-10-23 |
+| `ordenanza-regional-006-2011-cr-grc-cusco` | Ordenanza Regional N° 006-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Turismo - CORETUR | 1 | 2011-10-08 to 2011-10-08 |
+| `ordenanza-regional-011-2011-cr-grc-cusco` | Ordenanza Regional N° 011-2011-CR/GRC.CUSCO: Crean el Comité Especial de Promoción de la Inversión Privada del Gobierno Regional del Cusco - CEPRI CUSCO | 1 | 2011-09-25 to 2011-09-25 |
 
-The build made 131 commits:
+The build made 177 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 131 | first version of an act |
+| 177 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 132 laws in the record.
-- 262 tags.
+- 178 laws in the record.
+- 354 tags.
 
 ## Dates
 
@@ -171,7 +217,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `80244b09e27a73e607e297ba1b115e8af1655d3b3b9b1da05fecd8f1044964d0` (2175307 bytes).
+- Corpus: sha256 `6c41d42333a2fdb038276873e329c935949d4c95b29b08042e0ed802cb612b8b` (2717148 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

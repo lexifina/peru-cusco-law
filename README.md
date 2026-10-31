@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-132 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+178 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -144,6 +144,52 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-146-2018-cr-grc-cusco/` | Ordenanza Regional N° 146-2018-CR/GRC.CUSCO: Aprueban la "Actualización del Sistema Regional de Gestión Ambiental - SRGA de Cusco ” | in force 23 December 2018 |
 | `ordenanza-regional-139-2018-cr-grc-cusco/` | Ordenanza Regional N° 139-2018-CR/GRC.CUSCO: Modifican el artículo primero y segundo de la Ordenanza Regional N° 092-2015-CR/GRC.CUSCO | in force 13 October 2018 |
 | `ordenanza-regional-125-2017-cr-grc-cusco/` | Ordenanza Regional N° 125-2017-CR/GRC.CUSCO.: Aprueban la creación de la Instancia Regional de Concertación para erradicar la Violencia contra las Mujeres y los… | in force 25 February 2018 |
+| `ordenanza-regional-056-2013-cr-grc-cusco/` | Ordenanza Regional N° 056-2013-CR/GRC.CUSCO: Declaran  de interés social y necesidad pública del Gobierno Regional Cusco, fomentar, fortalecer y desarrollar la … | in force 19 December 2013 |
+| `ordenanza-regional-057-2013-cr-grc-cusco/` | Ordenanza Regional N° 057-2013-CR/GRC.CUSCO: Autorizan se lleve a cabo proceso de reasignación excepcional del personal docente y  auxiliar de educación | in force 28 November 2013 |
+| `ordenanza-regional-047-2013-cr-grc-cusco/` | Ordenanza Regional N° 047-2013-CR/GRC.CUSCO: Prohiben la quema de pastos, plantaciones forestales y bosques naturales en la Región Cusco | in force 23 November 2013 |
+| `ordenanza-regional-053-2013-cr-grc-cusco/` | Ordenanza Regional N° 053-2013-CR/GRC.CUSCO: Aprueban el "Plan Vial Departamental Participativo del Cusco - 2012 -2021" | in force 23 November 2013 |
+| `ordenanza-regional-048-2013-cr-grc-cusco/` | Ordenanza Regional N° 048-2013-CR/GRC.CUSCO: Aprueban el Cuadro para Asignación de Personal - CAP de la Unidad de Gestión Educativa Local de Pichari - Quimbiri … | in force 6 July 2013 |
+| `ordenanza-regional-046-2013-cr-grc-cusco/` | Ordenanza Regional N° 046-2013-CR/GRC.CUSCO: Aprueban Reglamento de Organización y Funciones - ROF del Gobierno Regional del Cusco | in force 2 June 2013 |
+| `ordenanza-regional-050-2013-cr-grc-cusco/` | Ordenanza Regional N° 050-2013-CR/GRC.CUSCO: Modifican la Ordenanza N° 015-2011-CR/GRC.CUSCO en lo referente a la conformación del grupo impulsor para la confor… | in force 17 May 2013 |
+| `ordenanza-regional-051-2013-cr-grc-cusco/` | Ordenanza Regional N° 051-2013-CR/GRC.CUSCO: Declaran a la Central de Cooperativas Té Huyro Ltda. N° 43 como Patrimonio Regional Agroindustrial de la Región Cus… | in force 17 May 2013 |
+| `ordenanza-regional-043-2012-cr-grc-cusco/` | Ordenanza Regional N° 043-2012-CR/GRC.CUSCO: Aprueban la Política Regional para afrontar la proliferación del trabajo infantil en el ámbito de la Región Cusco | in force 16 February 2013 |
+| `ordenanza-regional-023-2012-cr-grc-cusco/` | Ordenanza Regional N° 023-2012-CR/GRC.CUSCO: Disponen promover y fomentar el Desarrollo del Cultivo de la Morera, Crianza del Gusano de Seda y Sericultura en la… | in force 16 February 2013 |
+| `ordenanza-regional-044-2012-cr-grc-cusco/` | Ordenanza Regional N° 044-2012-CR/GRC.CUSCO: Declaran como prioridad del Gobierno Regional de Cusco promover el Derecho a la Salud de la Maternidad Saludable y … | in force 2 December 2012 |
+| `ordenanza-regional-041-2012-cr-grc-cusco/` | Ordenanza Regional N° 041-2012-CR/GRC.CUSCO: Crean el Consejo Regional de la Micro y Pequeña Empresa COREMYPE en la Región Cusco | in force 2 December 2012 |
+| `ordenanza-regional-045-2012-cr-grc-cusco/` | Ordenanza Regional N° 045-2012-CR/GRC.CUSCO: Instituyen el Premio Regional de Literatura Quechua Amauta | in force 2 December 2012 |
+| `ordenanza-regional-042-2012-cr-grc-cusco/` | Ordenanza Regional N° 042-2012-CR/GRC.CUSCO: Disponen la promoción del reemplazo progresivo de Sistemas de Riego Tradicional en el Sector Agrícola en el ámbito … | in force 2 December 2012 |
+| `ordenanza-regional-029-2012-cr-grc-cusco/` | Ordenanza Regional N° 029-2012-CR/GRC.CUSCO: Declaran de Necesidad y Prioridad Regional la Lucha Contra el Uso y Consumo de Drogas en la Región del Cusco. | in force 20 November 2012 |
+| `ordenanza-regional-027-2012-cr-grc-cusco/` | Ordenanza Regional N° 027-2012-CR/GRC.CUSCO: Declaran de Prioridad Regional, la preservación, conservación, promoción, difusión y gestión cultural del PuenteInk… | in force 20 November 2012 |
+| `ordenanza-regional-032-2012-cr-grc-cusco/` | Ordenanza Regional N° 032-2012-CR/GRC.CUSCO: Declaran de Necesidad y Prioridad Regional la Atención Integral de la Primera Infancia y a las Madres Gestantes com… | in force 20 November 2012 |
+| `ordenanza-regional-028-2012-cr-grc-cusco/` | Ordenanza Regional N° 028-2012-CR/GRC.CUSCO: Declaran de Prioridad Regional, multisectorial y orgánica la Lucha Contra la Tuberculosis en la Región del Cusco. | in force 20 November 2012 |
+| `ordenanza-regional-036-2012-cr-grc-cusco/` | Ordenanza Regional N° 036-2012-CR/GRC.CUSCO: Crean el Sistema Regional de Áreas de Conservación de la Región Cusco (SIRAC) | in force 17 November 2012 |
+| `ordenanza-regional-033-2012-cr-grc-cusco/` | Ordenanza Regional N° 033-2012-CR/GRC. CUSCO: Crean la Unidad de Gestión Educativa Local Pichari - Kimbiri - Villa Virgen La Convención, en el Valle de los Ríos… | in force 11 November 2012 |
+| `ordenanza-regional-040-2012-cr-grc-cusco/` | Ordenanza Regional N° 040-2012-CR/GRC.CUSCO: Disponen como política pública regional promover el desarrollo de la industria petroquímica básica e intermedia a t… | in force 21 October 2012 |
+| `ordenanza-regional-039-2012-cr-grc-cusco/` | Ordenanza Regional N° 039-2012-CR/GRC.CUSCO: Aprueban Plan Concertado de Competitividad Regional 2011 - 2021 | in force 21 October 2012 |
+| `ordenanza-regional-035-2012-cr-grc-cusco/` | Ordenanza Regional N° 035-2012-CR/GRC.CUSCO: Aprueban la Política Regional del Ambiente de la Región Cusco | in force 25 August 2012 |
+| `ordenanza-regional-034-2012-cr-grc-cusco/` | Ordenanza Regional N° 034-2012-CR/GRC.CUSCO: Declaran de necesidad pública regional y encargan al Ejecutivo Regional garantizar la coformulación intercultural d… | in force 25 August 2012 |
+| `ordenanza-regional-030-2012-cr-grc-cusco/` | Ordenanza Regional N° 030-2012-CR/GRC.CUSCO: Crean el Consejo Regional de Ciencia, Tecnología e Innovación Tecnológica Cusco, CORCYTEC CUSCO | in force 16 August 2012 |
+| `ordenanza-regional-031-2012-cr-grc-cusco/` | Ordenanza Regional N° 031-2012-CR/GRC.CUSCO: Declaran de Interés Regional el Fortalecimiento de la Identidad Nacional a través del Comocimiento del Patrimonio C… | in force 28 July 2012 |
+| `ordenanza-regional-026-2012-cr-grc-cusco/` | Ordenanza Regional N° 026-2012-CR/GRC.CUSCO: Modifican el Reglamento del Presupuesto Participativo Multianual Basado en Resultados y Programas de Desarrollo 201… | in force 11 May 2012 |
+| `ordenanza-regional-015-2011-cr-grc-cusco/` | Ordenanza Regional N° 015-2011-CR/GRC.CUSCO: Declaran de interés regional y necesidad pública la Gestión Integrada de Recursos Hídricos | in force 20 April 2012 |
+| `ordenanza-regional-017-2011-cr-grc-cusco/` | Ordenanza Regional N° 017-2011-CR/GRC.CUSCO: Declaran el 9 de diciembre como "Día contra la Corrupción" en el ámbito de la Región Cusco | in force 17 April 2012 |
+| `ordenanza-regional-012-2011-cr-grc-cusco/` | Ordenanza Regional N° 012-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Cultura del Gobierno Regional del Cusco | in force 17 April 2012 |
+| `ordenanza-regional-013-2011-cr-grc-cusco/` | Ordenanza Regional N° 013-2011-CR/GRC.CUSCO: Declaran de necesidad pública regional la construcción de edificio para el Centro de Operaciones de Emergencia Regi… | in force 17 April 2012 |
+| `ordenanza-regional-003-2011-cr-grc-cusco/` | Ordenanza Regional N° 003-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Concertación Agraria para la Reactivación del Desarrollo del Sector Agropecuario en la… | in force 30 March 2012 |
+| `ordenanza-regional-018-2011-cr-grc-cusco/` | Ordenanza Regional N° 018-2011-CR/GRC.CUSCO: Crean Comité Técnico Especializado del Gobierno Regional del Cusco para la Zonificación Económica y Ecológica, y el… | in force 27 March 2012 |
+| `ordenanza-regional-020-2012-cr-grc-cusco/` | Ordenanza Regional N° 020-2012-CR/GRC.CUSCO: Aprueban la Estrategia Regional frente al Cambio Climático de la Región Cusco | in force 11 March 2012 |
+| `ordenanza-regional-019-2012-cr-grc-cusco/` | Ordenanza Regional N° 019-2012-CR/GRC.CUSCO: Crean el Sistema de Información Ambiental Regional - SIAR de la Región Cusco | in force 6 March 2012 |
+| `ordenanza-regional-016-2011-cr-grc-cusco/` | Ordenanza Regional N° 016-2011-CR/GRC.CUSCO: Conforman la "Mesa Coordinadora de Descontaminación y Tratamiento Integral de la Sub Cuenca del Huatanay" | in force 12 February 2012 |
+| `ordenanza-regional-014-2011-cr-grc-cusco/` | Ordenanza Regional N° 014-2011-CR/GRC.CUSCO: Constituyen la Mesa REDD Cusco | in force 28 January 2012 |
+| `ordenanza-regional-082-2010-cr-grc-cusco/` | Ordenanza Regional N° 082-2010-CR/GRC.CUSCO: Crean la Comisión Ambiental Regional de la Región Cusco - CAR CUSCO | in force 1 January 2012 |
+| `ordenanza-regional-079-2010-cr-grc-cusco/` | Ordenanza Regional N° 079-2010-CR/GRC.CUSCO: Aprueban Plan PRENDE CUSCO - Agenda Regional por el Desarrollo Económico 2010 - 2018 del Gobierno Regional Cusco | in force 1 January 2012 |
+| `ordenanza-regional-087-2010-cr-grc-cusco/` | Ordenanza Regional N° 087-2010-CR/GRC.CUSCO: Aprueban Plan Regional de Operaciones de Emergencia del Gobierno Regional del Cusco | in force 1 January 2012 |
+| `ordenanza-regional-005-2011-cr-grc-cusco/` | Ordenanza Regional N° 005-2011-CR/GRC.CUSCO: Declaran el mes de abril como "Mes del Derecho al Nombre y a la Identidad" | in force 1 December 2011 |
+| `ordenanza-regional-007-2011-cr-grc-cusco/` | Ordenanza Regional N° 007-2011-CR/GRC.CUSCO: Crean el Sistema Regional de Planeamiento Estratégico de la Región Cusco - SIRPLAN CUSCO | in force 1 December 2011 |
+| `ordenanza-regional-004-2011-cr-grc-cusco/` | Ordenanza Regional N° 004-2011-CR/GRC.CUSCO: Crean la Oficina Regional para Atención a las Personas con Discapacidad - OREDIS CUSCO | in force 23 October 2011 |
+| `ordenanza-regional-008-2011-cr-grc-cusco/` | Ordenanza Regional N° 008-2011-CR/GRC.CUSCO: Establecen como Política Pública y Prioridad del Gobierno Regional del Cusco la lucha frontal contra la pobreza y e… | in force 23 October 2011 |
+| `ordenanza-regional-006-2011-cr-grc-cusco/` | Ordenanza Regional N° 006-2011-CR/GRC.CUSCO: Crean el Consejo Regional de Turismo - CORETUR | in force 8 October 2011 |
+| `ordenanza-regional-011-2011-cr-grc-cusco/` | Ordenanza Regional N° 011-2011-CR/GRC.CUSCO: Crean el Comité Especial de Promoción de la Inversión Privada del Gobierno Regional del Cusco - CEPRI CUSCO | in force 25 September 2011 |
 
 ## Source
 
