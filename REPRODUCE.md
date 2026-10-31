@@ -1,0 +1,188 @@
+# How this repository was made (Cusco)
+
+This file is written by the build on 2026-10-31, the day the source data was retrieved.
+
+## Sources
+
+| Source | Address | Retrieved | Licence |
+| --- | --- | --- | --- |
+| Diario Oficial El Peruano, Normas Legales (Empresa Peruana de Servicios Editoriales S.A. - Editora Perú) | <https://busquedas.elperuano.pe> | 2026-10-31 | Official texts of a legislative nature: not protected by copyright in Peru (Decreto Legislativo 822, Ley sobre el Derecho de Autor, art. 9 b: "Artículo 9.- No son objeto de protección por el derecho de autor: [...] b. Los textos oficiales de carácter legislativo, administrativo o judicial, ni las traducciones oficiales de los mismos, sin perjuicio de la obligación de respetar los textos y citar la fuente."). The source states no restriction on reuse. Reproduced with attribution, respecting the text. |
+
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+
+## What is in it
+
+| Act | Title | Versions | Span |
+| --- | --- | ---: | --- |
+| `ordenanza-regional-285-2026-crc-grc` | Ordenanza Regional N° 285-2026-CRC/GRC: Crean la Oficina de Atención al Ciudadano en el distrito de Pichari - provincia de La Convención - departamento de Cusco, dependiente de la Gerencia Regional de Transportes y Comunicaciones del Gobierno Regional del Cusco | 1 | 2026-10-03 to 2026-10-03 |
+| `ordenanza-regional-282-2026-crc-grc` | Ordenanza Regional N° 282-2026-CRC/GRC: Aprueban la “Creación de la Unidad de Gestión Educativa Local de Megantoni con sede en la Comunidad Nativa de Nuevo Mundo, distrito de Megantoni, provincia de La Convención y departamento de Cusco” | 1 | 2026-08-31 to 2026-08-31 |
+| `ordenanza-regional-281-2026-crc-grc` | Ordenanza Regional N° 281-2026-CRC/GRC: Declaran de prioridad regional la promoción, defensa y ejercicio de los derechos sexuales y reproductivos: hacia una vida libre de violencia y discriminación con Enfoque de Género, Interculturalidad y Discapacidad en la Región Cusco, con énfasis en los pueblos | 1 | 2026-08-13 to 2026-08-13 |
+| `ordenanza-regional-280-2026-crc-grc` | Ordenanza Regional N° 280-2026-CRC/GRC: Aprueban la constitución de la Comisión Regional de Registros Genealógicos de Alpacas y Llamas de la región Cusco | 1 | 2026-06-22 to 2026-06-22 |
+| `ordenanza-regional-278-2026-crc-grc` | Ordenanza Regional N° 278-2026-CRC/GRC: Declaran de interés regional y necesidad pública fortalecer la cadena de valor de la papa nativa, crear mesa técnica, instaurar su día y del conservacionista el 24 de junio y promover la conservación de las variedades como recurso genético de importancia para  | 1 | 2026-06-22 to 2026-06-22 |
+| `ordenanza-regional-279-2026-crc-grc` | Ordenanza Regional N° 279-2026-CRC/GRC: Aprueban el Reglamento del Proceso de Presupuesto Participativo Multianual Basado en Resultados 2027–2029 | 1 | 2026-06-04 to 2026-06-04 |
+| `ordenanza-regional-ordenanza-regional` | Ordenanza Regional N° : Ordenanza Regional que crea la Comisión Regional de Seguimiento para la Masificación del Gas en la región del Cusco | 1 | 2026-01-02 to 2026-01-02 |
+| `ordenanza-regional-255-2024-cr-grc` | Ordenanza Regional N° 255-2024-CR/GRC: Modifican artículos de la Ordenanza Regional N° 007-2011-CR/GRC.CUSCO que crea el Sistema Regional de Planeamiento Estratégico de la Región Cusco SIRPLAN CUSCO y el Centro Estratégico de Planeamiento de la Región Cusco -  CEPLAR CUSCO | 1 | 2025-10-31 to 2025-10-31 |
+| `ordenanza-regional-256-2024-cr-grc` | Ordenanza Regional N° 256-2024-CR/GRC: Aprueban la Política Regional Multisectorial de Salud Materno Infantil, Cusco al 2033 | 1 | 2025-10-31 to 2025-10-31 |
+| `ordenanza-regional-269-2025-crc-grc` | Ordenanza Regional N° 269-2025-CRC/GRC: Declaran de interés regional el desfile de saludo de las 13 provincias y sus 116 distritos al Cusco, que se desarrolla el 22 de junio de cada año en la provincia de Cusco | 1 | 2025-08-23 to 2025-08-23 |
+| `ordenanza-regional-267-2025-crc-grc` | Ordenanza Regional N° 267-2025-CRC/GRC: Ordenanza Regional que aprueba el Cuadro para la Asignación de Personal Provisional (CAP-P) de la Unidad Ejecutora 001 Sede Cusco del Gobierno Regional del Cusco | 1 | 2025-06-19 to 2025-06-19 |
+| `ordenanza-regional-233-2023-cr-gr-cusco` | Ordenanza Regional N° 233-2023-CR/GR CUSCO: Modifican la Ordenanza Regional N° 125-2017-CR/GR CUSCO que aprueba la creación de la instancia regional de concertación para erradicar la violencia contra las mujeres y los integrantes del grupo familiar de la Región Cusco | 1 | 2025-06-06 to 2025-06-06 |
+| `ordenanza-regional-264-2025-cr-grc` | Ordenanza Regional N° 264-2025-CR/GRC: Ordenanza Regional que aprueba la “Estrategia Regional Frente al Cambio Climático Cusco 2050” | 1 | 2025-06-01 to 2025-06-01 |
+| `ordenanza-regional-263-2025-crc-gr-cusco` | Ordenanza Regional N° 263-2025-CRC/GR CUSCO: Modifican  el Texto Único de Procedimientos Administrativos TUPA del Gobierno Regional de Cusco | 1 | 2025-05-23 to 2025-05-23 |
+| `ordenanza-regional-265-2025-cr-grc` | Ordenanza Regional N° 265-2025-CR/GRC.: Aprueban el “Reglamento que Regula el Desarrollo de las Audiencias Públicas de Rendición de Cuentas del Gobierno Regional de Cusco” | 1 | 2025-05-02 to 2025-05-02 |
+| `ordenanza-regional-261-2024-cr-grc` | Ordenanza Regional N° 261-2024-CR/GRC: Aprueban la Agenda Regional Agraria Cusco 2025-2029 | 1 | 2025-03-08 to 2025-03-08 |
+| `ordenanza-regional-262-2024-cr-grc` | Ordenanza Regional N° 262-2024-CR/GRC: Modifican el Texto Único de Procedimientos Administrativos TUPA del Gobierno Regional de Cusco | 1 | 2025-03-07 to 2025-03-07 |
+| `ordenanza-regional-260-2024-cr-grc` | Ordenanza Regional N° 260-2024-CR/GRC: Declaran de necesidad publica e interés regional el reconocimiento y la creación del Geoparque del Glaciar Quelccaya por la Red Mundial de Geoparques (GGN) de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-regional-259-2024-cr-grc` | Ordenanza Regional N° 259-2024-CR/GRC: Declaran el 29 de octubre como Dia de los cuidados, el trabajo doméstico no remunerado que realizan las mujeres en su diversidad, la promoción de la corresponsabilidad igualitaria y la prevención de las violencias de género | 1 | 2025-01-10 to 2025-01-10 |
+| `ordenanza-regional-258-2024-cr-grc` | Ordenanza Regional N° 258-2024-CR/GRC: Modifican el Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional de Cusco, incorporando el procedimiento administrativo "Evaluación de la Declaración de impacto Ambiental, para actividades de Hidrocarburos (Plantas de regasificación de GN | 1 | 2024-12-09 to 2024-12-09 |
+| `ordenanza-regional-208-2021-cr-gr-cusco` | Ordenanza Regional N° 208-2021-CR/GR CUSCO: Aprueban el Plan Maestro del Área de Conservación Regional Ausangate | 1 | 2024-12-06 to 2024-12-06 |
+| `ordenanza-regional-257-2024-cr-grc` | Ordenanza Regional N° 257-2024-CR/GRC: Aprueban procedimiento administrativo denominado: "Evaluación de la Declaración de Impacto Ambiental, para actividades de Hidrocarburos (Plantas de regasificación de GNL/GNC, redes de abastecimiento y/o distribución de gas natural y demás actividades relacionad | 1 | 2024-12-02 to 2024-12-02 |
+| `ordenanza-regional-251-2024-cr-grc` | Ordenanza Regional N° 251-2024-CR/GRC: Modifican el Artículo 143° del Texto Integrado del Reglamento de Organización y Funciones del Gobierno Regional de Cusco, aprobado por Ordenanza Regional N° 214-2022-CR/GR CUSCO | 1 | 2024-11-25 to 2024-11-25 |
+| `ordenanza-regional-247-2024-cr-grc` | Ordenanza Regional N° 247-2024-CR/GRC: Ordenanza Regional que crea la Comisión Regional Anticorrupción de Cusco | 1 | 2024-09-14 to 2024-09-14 |
+| `ordenanza-regional-240-2023-cr-grc` | Ordenanza Regional N° 240-2023-CR/GRC: Establecen como Política Regional el Empoderamiento de las Mujeres Productoras vinculadas a la Agricultura Familiar, y dictan otras disposiciones | 1 | 2024-06-23 to 2024-06-23 |
+| `ordenanza-regional-245-2023-cr-grc` | Ordenanza Regional N° 245-2023-CR/GRC: Ordenanza Regional que aprueba la creación e Instalación del Comité Consultivo Regional de Turismo de la Región Cusco - CCRT REGIÓN CUSCO. | 1 | 2024-05-23 to 2024-05-23 |
+| `ordenanza-regional-244-2023-cr-grc` | Ordenanza Regional N° 244-2023-CR/GRC: Aprueban la Actualización del Plan Maestro del Área de Conservación Regional Choquequirao ACR – Choquequirao 2024 - 2028 | 1 | 2024-05-05 to 2024-05-05 |
+| `ordenanza-regional-243-2023-cr-grc` | Ordenanza Regional N° 243-2023-CR/GRC: Aprueban adhesión del Gobierno Regional de Cusco a la Mancomunidad Regional Amazónica | 1 | 2024-03-30 to 2024-03-30 |
+| `ordenanza-regional-246-2023-cr-grc` | Ordenanza Regional N° 246 -2023-CR/GRC: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana Cusco 2024-2027” | 1 | 2024-02-23 to 2024-02-23 |
+| `ordenanza-regional-238-2023-cr-gr-cusco` | Ordenanza Regional N° 238-2023-CR/GR CUSCO: Declaran de interés y necesidad público regional la gestión de proyectos de inversión pública en siembra y cosecha de agua, promoviendo la gestión de los recursos hídricos, ecosistema, afrontando el cambio climático en la región Cusco | 1 | 2024-01-26 to 2024-01-26 |
+| `ordenanza-regional-239-2023-cr-gr-cusco` | Ordenanza Regional N° 239-2023-CR/GR CUSCO: Aprueban el Plan de Desarrollo Regional Concertado del Cusco al 2033-PDRC | 1 | 2023-12-02 to 2023-12-02 |
+| `ordenanza-regional-234-2023-cr-gr-cusco` | Ordenanza Regional N° 234-2023-CR/GR CUSCO: Aprueban una cuota de inserción laboral en las diferentes dependencias, órganos desconcentrados, e instituciones estatales del ámbito del gobierno regional de Cusco, para las personas afectadas por las acciones de la violencia política registrados y acredi | 1 | 2023-11-03 to 2023-11-03 |
+| `ordenanza-regional-237-2023-cr-gr-cusco` | Ordenanza Regional N° 237-2023-CR/GR CUSCO: Declaran de interés regional el observatorio astronómico de rayos gamma de campo amplio del hemisferio del sur “SWGO”, para que la construcción e implementación se haga en la laguna de Sibinacocha del distrito de Pitumarca, provincia de Canchis | 1 | 2023-09-30 to 2023-09-30 |
+| `ordenanza-regional-235-2023-cr-gr-cusco` | Ordenanza Regional N° 235-2023-CR/GR CUSCO: Aprueban el Reglamento del Proceso de Presupuesto Participativo Multianual Basado en Resultados 2024 - 2026 | 1 | 2023-07-22 to 2023-07-22 |
+| `ordenanza-regional-225-2022-cr-gr-cusco` | Ordenanza Regional N° 225-2022-CR/GR CUSCO: Aprueban el Plan Maestro del Área de Conservación Regional Chuyapi Urusayhua 2022-2026 | 1 | 2023-05-19 to 2023-05-19 |
+| `ordenanza-regional-232-2023-cr-gr-cusco` | Ordenanza Regional N° 232-2023-CR/GR CUSCO: Declaran de Interés y Necesidad Pública Regional la Organización e Institucionalización de la “FERIA INTERNACIONAL CUSCO 2023 - FIC” | 1 | 2023-04-21 to 2023-04-21 |
+| `ordenanza-regional-218-2022-cr-gr-cusco` | Ordenanza Regional N° 218-2022-CR/GR CUSCO: Aprueban la Ordenanza Regional que “Dicta medidas para la Vigilancia, Prevención, Control del Dengue, Chikunguya, Zika y otras enfermedades Arbovirales en la Región de Cusco” | 1 | 2023-03-04 to 2023-03-04 |
+| `ordenanza-regional-228-2022-cr-gr-cusco` | Ordenanza Regional N° 228-2022-CR/GR CUSCO: Aprueban la Adhesión del Gobierno Regional de Cusco a la Mancomunidad Regional de los Andes | 1 | 2023-02-25 to 2023-02-25 |
+| `ordenanza-regional-221-2022-cr-gr-cusco` | Ordenanza Regional N° 221-2022-CR/GR CUSCO: Declaran de interés regional la actualización de la Estrategia Regional Frente al Cambio Climático del Cusco, y dar inicio al proceso de actualización con proyección al 2050 | 1 | 2023-02-02 to 2023-02-02 |
+| `ordenanza-regional-217-2022-cr-gr-cusco` | Ordenanza Regional N° 217-2022-CR/GR CUSCO: Conforman el Grupo Técnico Regional de Educación Ambiental de la Región Cusco | 1 | 2023-02-02 to 2023-02-02 |
+| `ordenanza-regional-224-2022-cr-gr-cusco` | Ordenanza Regional N° 224-2022-CR/GR CUSCO: Crean el “Consejo Regional de Pueblos Originarios, Comunidades Campesinas, Comunidades Nativas, y Rondas Campesinas de la Región Cusco - COREPORC” | 1 | 2023-02-01 to 2023-02-01 |
+| `ordenanza-regional-231-2022-cr-gr-cusco` | Ordenanza Regional N° 231-2022-CR/GR CUSCO: Declaran e instituyen el “Tinkuy Regional Multianual” como política pública de gobernanza territorial para mejorar la asignación y el uso eficiente del gasto público con integridad, transparencia y participación ciudadana | 1 | 2023-01-14 to 2023-01-14 |
+| `ordenanza-regional-216-2022-cr-gr-cusco` | Ordenanza Regional N° 216-2022-CR/GR CUSCO: Modifican la Ordenanza Regional N° 141-2018-CR/GR.CUSCO, que declara de Interés Regional la Lucha contra los Delitos Aduaneros y la Piratería y Promover su Difusión en la Región de Cusco | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-regional-227-2022-cr-gr-cusco` | Ordenanza Regional N° 227-2022-CR/GR CUSCO: Aprueban habilitación para la prestación del servicio regular de transporte de personas en la Región Cusco, de los vehículos de las categorías M3 Clase III de menor tonelaje a 5.7 toneladas de peso neto vehicular, o M2 Clase lll, en rutas en las que no exi | 1 | 2022-12-23 to 2022-12-23 |
+| `ordenanza-regional-205-2021-cr-gr-cusco` | Ordenanza Regional N° 205-2021-CR/GR CUSCO: Aprueban la Cadena de Industrialización del Bambú y reconocen Mesa Técnica en la Región del Cusco | 1 | 2022-12-15 to 2022-12-15 |
+| `ordenanza-regional-159-2018-cr-grc-cusco` | Ordenanza Regional N° 159-2018-CR/GRC.CUSCO: Modifican la Ordenanza Regional N° 108-2016-CR/GRC.CUSCO | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-regional-214-2022-cr-gr-cusco` | Ordenanza Regional N° 214-2022-CR/GR.CUSCO: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Cusco | 1 | 2022-09-12 to 2022-09-12 |
+| `ordenanza-regional-212-2022-cr-gr-cusco` | Ordenanza Regional N° 212-2022-CR/GR CUSCO: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana Cusco 2022” del Gobierno Regional de Cusco | 1 | 2022-06-20 to 2022-06-20 |
+| `ordenanza-regional-198-2021-cr-gr-cusco` | Ordenanza Regional N° 198-2021-CR/GR CUSCO: Disponen implementar acciones para la obtención de la certificación del ISO 37001  “Sistema de Gestión Antisoborno” | 1 | 2022-05-26 to 2022-05-26 |
+| `ordenanza-regional-180-2020-cr-gr-cusco` | Ordenanza Regional N° 180-2020-CR/GR CUSCO: Aprueban el Plan Estratégico Regional de Turismo Cusco - PERTUR Cusco | 1 | 2022-05-22 to 2022-05-22 |
+| `ordenanza-regional-200-2021-cr-gr-cusco` | Ordenanza Regional N° 200-2021-CR/GR CUSCO: Establecen disposiciones para la realización de actividades turísticas en el ámbito de la Región de Cusco | 1 | 2022-05-22 to 2022-05-22 |
+| `ordenanza-regional-171-2019-cr-grc-cusco` | Ordenanza Regional N° 171-2019-CR/GRC.CUSCO: Ordenanza Regional que dispone Fortalecer la Cadena de Valor del Té en la Región Cusco y crear Mesa Técnica con ámbito en toda la Región del Cusco | 1 | 2022-04-25 to 2022-04-25 |
+| `ordenanza-regional-201-2021-cr-gr-cusco` | Ordenanza Regional N° 201-2021-CR/GR CUSCO: Modifican el Artículo Cuarto de la Ordenanza Regional N° 184-2020, con la finalidad de incluir dos representantes de la Red de Mujeres Emprendedoras de la Región del Cusco, debidamente acreditadas | 1 | 2022-04-24 to 2022-04-24 |
+| `ordenanza-regional-211-2022-cr-gr-cusco` | Ordenanza Regional N° 211-2022-CR/GR-CUSCO: Aprueban Reglamento del Proceso de Presupuesto Participativo Basado en Resultados 2023 - 2025 "Tinkuy Regional Multianual" | 1 | 2022-04-15 to 2022-04-15 |
+| `ordenanza-regional-209-2022-cr-gr-cusco` | Ordenanza Regional N° 209-2022-CR/GR CUSCO: Aprueban el Cuadro para Asignación de Personal Provisional - CAP Provisional, de la Unidad Ejecutora 001 - Sede Cusco del Gobierno Regional de Cusco | 1 | 2022-04-11 to 2022-04-11 |
+| `ordenanza-regional-210-2022-cr-gr-cusco` | Ordenanza Regional N° 210-2022-CR/GR CUSCO: Aprueban Cuadro para Asignación de Personal Provisional (CAP - Provisional) del Instituto de Manejo de Agua y Medio Ambiente IMA del Gobierno Regional de Cusco | 1 | 2022-03-20 to 2022-03-20 |
+| `ordenanza-regional-204-2021-cr-gr-cusco` | Ordenanza Regional N° 204-2021-CR/GR CUSCO: Modifican la Ordenanza Regional Nº 157-2018-CR/GRC.CUSCO, que crea el Consejo Regional de Integración de las Personas con Discapacidad en la Región Cusco - COREDIS | 1 | 2022-03-20 to 2022-03-20 |
+| `ordenanza-regional-206-2021-cr-gr-cusco` | Ordenanza Regional N° 206-2021-CR/GR.CUSCO: Modifican el Texto Único de Procedimientos Administrativos TUPA del Gobierno Regional de Cusco | 1 | 2022-01-03 to 2022-01-03 |
+| `ordenanza-regional-196-2021-cr-gr-cusco` | Ordenanza Regional N° 196-2021-CR/GR.CUSCO: Reconocen el acoso político como expresión de violencia de género hacia las mujeres de urgente atención | 1 | 2021-10-22 to 2021-10-22 |
+| `ordenanza-regional-199-2021-cr-gr-cusco` | Ordenanza Regional N° 199-2021-CR/GR CUSCO: Ordenanza que aprueba el Plan de Acción Regional de Seguridad Ciudadana Cusco 2021 | 1 | 2021-10-03 to 2021-10-03 |
+| `ordenanza-regional-195-2021-cr-gr-cusco` | Ordenanza Regional N° 195-2021-CR/GR CUSCO: Modifican la Ordenanza Regional Nº 014-2007-CR/GR.CUSCO, y constituyen el Consejo Regional  de la Mujer Cusco - COREMUJ CUSCO | 1 | 2021-09-19 to 2021-09-19 |
+| `ordenanza-regional-192-2021-cr-gr-cusco` | Ordenanza Regional N° 192-2021-CR/GR CUSCO: Aprueban la creación del Observatorio Regional de la Violencia contra las Mujeres y los integrantes del Grupo Familiar de la Región Cusco | 1 | 2021-09-19 to 2021-09-19 |
+| `ordenanza-regional-194-2021-cr-gr-cusco` | Ordenanza Regional N° 194-2021-CR/GR CUSCO: Aprueban modificación de la Ordenanza Regional Nº 062-2013-CR/GRC-CUSCO que crea el Consejo Regional de Niños, Niñas y Adolescentes de la Región Cusco | 1 | 2021-09-06 to 2021-09-06 |
+| `ordenanza-regional-188-2020-cr-gr-cusco` | Ordenanza Regional N° 188-2020-CR/GR.CUSCO: Crean la Comisión Regional Multisectorial Permanente, para la implementación, en el ámbito regional, de la iniciativa para la transparencia de las industrias extractivas (EITI - CUSCO) | 1 | 2021-07-03 to 2021-07-03 |
+| `ordenanza-regional-165-2019-cr-grc-cusco` | Ordenanza Regional N° 165-2019-CR/GRC.CUSCO: Aprueban el Reglamento Interno del Consejo de Coordinacion Regional del Gobierno Regional Cusco | 1 | 2021-06-13 to 2021-06-13 |
+| `ordenanza-regional-164-2019-cr-grc-cusco` | Ordenanza Regional N° 164-2019-CR/GRC.CUSCO: Convocan y dan inicio al proceso del Presupuesto Participativo Multianual Basado en Resultados 2020 - 2022 en el Gobierno Regional del Cusco | 1 | 2021-06-13 to 2021-06-13 |
+| `ordenanza-regional-179-2020-cr-gr-cusco` | Ordenanza Regional N° 179-2020-CR/GR CUSCO: Disponen el uso obligatorio de escudos y/o protectores faciales, en la circulación, concentración y el tránsito peatonal, así como para la prestación de servicios, ejecución de actividades laborales y atención al público en general, dentro de las instituci | 1 | 2021-02-02 to 2021-02-02 |
+| `ordenanza-regional-175-2020-cr-gr-cusco` | Ordenanza Regional N° 175-2020-CR/GR CUSCO: Aprueban los “Lineamientos para el Desarrollo de los Mercados Itinerantes en la Región Cusco” | 1 | 2020-12-12 to 2020-12-12 |
+| `ordenanza-regional-174-2020-cr-gr-cusco` | Ordenanza Regional N° 174-2020-CR/GR CUSCO: Aprueban la adhesión del Gobierno Regional del Cusco, a la Mancomunidad Regional de los Andes | 1 | 2020-12-12 to 2020-12-12 |
+| `ordenanza-regional-172-2020-cr-gr-cusco` | Ordenanza Regional N° 172-2020-CR/GR CUSCO: Ordenanza que aprueba la constitución de la “Mancomunidad Regional Macro Región Sur” | 1 | 2020-12-12 to 2020-12-12 |
+| `ordenanza-regional-176-2020-cr-gr-cusco` | Ordenanza Regional N° 176-2020-CR/GR CUSCO: Aprueban el Reglamento de Organización y Funciones del Gobierno Regional del Cusco | 1 | 2020-10-10 to 2020-10-10 |
+| `ordenanza-regional-170-2019-cr-grc-cusco` | Ordenanza Regional N° 170-2019-CR/GRC.CUSCO: Aprueban el “Reglamento para la Atención de Denuncias Ambientales en el Ámbito del Gobierno Regional Cusco” | 1 | 2020-09-24 to 2020-09-24 |
+| `ordenanza-regional-272-2025-crc-grc` | Ordenanza Regional N° 272-2025-CRC/GRC: Ordenanza Regional que aprueba el “Mapa Regional de Ecosistemas del departamento de Cusco” y el “Mapa Regional de Áreas Degradadas del departamento de Cusco”, y sus respectivas Memorias Descriptivas y base de datos geo referencial | 1 | 2026-03-09 to 2026-03-09 |
+| `ordenanza-regional-273-2025-crc-grc` | Ordenanza Regional N° 273-2025-CRC/GRC: Ordenanza Regional que aprueba declarar de interés regional y necesidad pública el Plan de Gestión de Recursos Hídricos de la Cuenca Vilcanota Urubamba, como instrumento de planificación integrada y de priorización de políticas públicas vinculadas a alcanzar e | 1 | 2025-12-07 to 2025-12-07 |
+| `ordenanza-regional-166-2019-cr-grc-cusco` | Ordenanza Regional N° 166-2019-CR/GRC.CUSCO: Rectifican el Artículo Tercero de la Ordenanza Regional N° 160-2018-CR/GRC.CUSCO | 1 | 2019-08-29 to 2019-08-29 |
+| `ordenanza-regional-160-2018-cr-grc-cusco` | Ordenanza Regional N° 160-2018-CR/GRC.CUSCO: Amplían plazo a que se refieren las Ordenanzas N°s. 127-2017-CR/GRC:CUSCO y 137-2018-CR/GRC:CUSCO, sobre actualización de relación de trabajadores nombrados beneficiarios, y dictan otras disposiciones | 1 | 2019-05-31 to 2019-05-31 |
+| `ordenanza-regional-143-2018-cr-grc-cusco` | Ordenanza Regional N° 143-2018-CR/GRC.CUSCO: Reconocen, en el ámbito de la Región Cusco, al Sistema de Garantía Participativo-SGP y crean el Consejo Regional del Sistema de Garantía  Participativo - SGP CUSCO | 1 | 2019-01-18 to 2019-01-18 |
+| `ordenanza-regional-144-2018-cr-grc-cusco` | Ordenanza Regional N° 144-2018-CR/GRC.CUSCO: Crean el Consejo Regional de Tecnologías de la Información y Comunicaciones de la Región Cusco - CORTIC | 1 | 2019-01-18 to 2019-01-18 |
+| `ordenanza-regional-142-2018-cr-grc-cusco` | Ordenanza Regional N° 142-2018-CR/GRC.CUSCO: Facultan al Gobernador Regional para que emita normas para la implementación del enfoque intercultural y medidas contra la discriminación en los servicios que brinda el Estado en la Región Cusco | 1 | 2019-01-18 to 2019-01-18 |
+| `ordenanza-regional-072-2014-cr-grc-cusco` | Ordenanza Regional N° 072-2014-CR/GRC.CUSCO: Aprueban Reglamento de Organización y Funciones reformulado de la Dirección Regional de Produccion y su Organigrama Estructural | 1 | 2018-12-02 to 2018-12-02 |
+| `ordenanza-regional-133-2018-cr-grc-cusco` | Ordenanza Regional N° 133-2018-CR/GRC.CUSCO: Aprueban el "Plan de Acción Ambiental Regional al 2021" de la Región Cusco | 1 | 2018-09-21 to 2018-09-21 |
+| `ordenanza-regional-137-2018-cr-grc-cusco` | Ordenanza Regional N° 137-2018-CR/GRC.CUSCO: Modifican la Ordenanza N° 127-2017-CR/GRC.CUSCO referente al proceso de desplazamiento de trabajadores nombrados del sector Salud del Gobierno Regional | 1 | 2018-06-29 to 2018-06-29 |
+| `ordenanza-regional-136-2018-cr-grc-cusco` | Ordenanza Regional N° 136-2018-CR/GRC.CUSCO: Modifican el artículo primero  de la Ordenanza Regional Nº 074-2010-CR/GRC.CUSCO, con la finalidad de ampliar la jornada cívica de apagar el motor de las unidades  motorizadas por el espacio de veinte minutos  como parte de las actividades  del Día Mundia | 1 | 2018-06-03 to 2018-06-03 |
+| `ordenanza-regional-131-2017-cr-grc-cusco` | Ordenanza Regional N° 131-2017-CR/GRC.CUSCO.: Aprueban el "Plan de Prevención y Reducción del Riesgo de Desastre Cusco al 2021" | 1 | 2018-02-25 to 2018-02-25 |
+| `ordenanza-regional-124-2017-cr-grc-cusco` | Ordenanza Regional N° 124-2017-CR/GRC.CUSCO: Aprueban el "Plan de Contingencia ante las Precipitaciones Intensas en el Departamento del Cusco 2016 - 2017" | 1 | 2017-12-24 to 2017-12-24 |
+| `ordenanza-regional-128-2017-cr-grc-cusco` | Ordenanza Regional N° 128-2017-CR/GRC.CUSCO.: Modifican la Ordenanza Regional N° 061-2013-CR/GRC.CUSCO y aprueban el Reglamento de la Comisión Regional Anticorrupción de Cusco | 1 | 2017-12-02 to 2017-12-02 |
+| `ordenanza-regional-119-2016-cr-grc-cusco` | Ordenanza Regional N° 119-2016-CR/GRC.CUSCO: Aprueban el Reglamento Interno de Organización y Funciones del Consejo Regional de Cusco | 1 | 2017-10-19 to 2017-10-19 |
+| `ordenanza-regional-127-2017-cr-grc-cusco` | Ordenanza Regional N° 127-2017-CR/GRC.CUSCO: Declaran de necesidad y prioridad pública regional la implementación del proceso de desplazamiento temporal a definitivo de trabajadores nombrados del Sector Salud del Gobierno Regional Cusco, comprendidos en el periodo 2006 al 2016 | 1 | 2017-10-19 to 2017-10-19 |
+| `ordenanza-regional-126-2017-cr-grc-cusco` | Ordenanza Regional N° 126-2017-CR/GRC.CUSCO: Ordenan la suspensión de la implementación de las RR. N°s 078 y 141-2017-MINEDU; hasta después de haber implementado y ejecutado el Programa de Capacitación a los Profesores del Nivel Inicial de la Escuela Básica Regular de la Carrera Pública Magisterial | 1 | 2017-09-21 to 2017-09-21 |
+| `ordenanza-regional-116-2016-cr-grc-cusco` | Ordenanza Regional N° 116-2016-CR/GRC.CUSCO: Institucionalizan la transversalización del enfoque de género en el Departamento del Cusco y aprueban los "Lineamientos Técnicos para la Transversalización del Enfoque de Género en las Políticas y Gestión de la Región Cusco" | 1 | 2017-09-07 to 2017-09-07 |
+| `ordenanza-regional-121-2016-cr-grc-cusco` | Ordenanza Regional N° 121-2016-CR/GRC.CUSCO: Modifican la denominación de la Sub Gerencia de Desarrollo Humano e inclusión Social, por Sub Gerencia de Desarrollo Humano, Inclusión Social y Defensa a Pueblos Indígenas u Originarios del Gobierno Regional | 1 | 2017-09-07 to 2017-09-07 |
+| `ordenanza-regional-118-2016-cr-grc-cusco` | Ordenanza Regional N° 118-2016-CR/GRC.CUSCO: Establecen como prioridad de la política pública regional la lucha contra la desnutrición crónica infantil y la anemia, con énfasis en el desarrollo infantil temprano | 1 | 2017-09-07 to 2017-09-07 |
+| `ordenanza-regional-122-2017-cr-grc-cusco` | Ordenanza Regional N° 122-2017-CR/GRC.CUSCO: Conforman Mesa Técnica del Proyecto Aeropuerto Internacional de Chinchero | 1 | 2017-07-28 to 2017-07-28 |
+| `ordenanza-regional-120-2016-fcr-grc-cusco` | Ordenanza Regional N° 120-2016-FCR/GRC.CUSCO: Conforman los Consejos Provinciales de Seguridad Vial en las trece Provincias de la Región Cusco | 1 | 2017-07-01 to 2017-07-01 |
+| `ordenanza-regional-087-2015-cr-grc-cusco` | Ordenanza Regional N° 087-2015-CR/GRC-CUSCO: Declaran de prioridad regional y multisectorial el apoyo y/o respaldo a las instituciones públicas, privadas y asociaciones de servicio social en la lucha contra el Cáncer en la Región Cusco | 1 | 2017-01-01 to 2017-01-01 |
+| `ordenanza-regional-114-2016-cr-grc-cusco` | Ordenanza Regional N° 114-2016-CR/GRC.CUSCO: Aprueban el "Plan de Desarrollo Regional Concertado Cusco al 2021 con Prospectiva al 2030" | 1 | 2016-11-12 to 2016-11-12 |
+| `ordenanza-regional-108-2016-cr-grc-cusco` | Ordenanza Regional N° 108-2016-CR/GRC.CUSCO: Declaran de necesidad pública y de prioridad regional la Gestión Integrada de los Recursos Hídricos de la Cuenca del Río Apurímac | 1 | 2016-09-30 to 2016-09-30 |
+| `ordenanza-regional-105-2015-cr-grc-cusco` | Ordenanza Regional N° 105-2015-CR/GRC.CUSCO: Declaran de Interés Prioritario Regional el servicio de Transporte Turístico Terrestre en el ámbito de la Región Cusco | 1 | 2016-04-10 to 2016-04-10 |
+| `ordenanza-regional-103-2015-cr-grc-cusco` | Ordenanza Regional N° 103-2015-CR/GRC.CUSCO: Crean la Mesa Técnica del Café y del Cacao de la Región Cusco | 1 | 2016-04-10 to 2016-04-10 |
+| `ordenanza-regional-104-2015-cr-grc-cusco` | Ordenanza Regional N° 104-2015-CR/GRC.CUSCO: Establecen como prioridad de la política pública regional el uso de las carreteras  limpias de residuos sólidos en las redes viales en la jurisdicción del Gobierno Regional de Cusco | 1 | 2016-04-10 to 2016-04-10 |
+| `ordenanza-regional-101-2015-cr-grc-cusco` | Ordenanza Regional N° 101-2015-CR/GRC.CUSCO: Aprueban el Plan Regional por las Niñas, Niños y Adolescentes del Cusco PRANNA 2015 - 2021 | 1 | 2015-11-08 to 2015-11-08 |
+| `ordenanza-regional-099-2015-cr-grc-cusco` | Ordenanza Regional N° 099-2015-CR/GRC.CUSCO: Aprueban el "Plan Regional de Acción contra la Trata de Personas y el Tráfico Ilícito de Migrantes en la Región Cusco 2015-2021" | 1 | 2015-11-08 to 2015-11-08 |
+| `ordenanza-regional-095-2015-cr-grc-cusco` | Ordenanza Regional N° 095-2015-CR/GRC.CUSCO: Aprueban la Estrategia Regional de Prevención y Tratamiento del Consumo de Drogas en la Región del Cusco 2015 - 2021 | 1 | 2015-10-24 to 2015-10-24 |
+| `ordenanza-regional-100-2015-cr-grc-cusco` | Ordenanza Regional N° 100-2015-CR/GRC.CUSCO: Aprueban la Agenda Regional de Investigación de la Región Cusco al 2021 | 1 | 2015-10-22 to 2015-10-22 |
+| `ordenanza-regional-090-2015-cr-grc-cusco` | Ordenanza Regional N° 090-2015-CR/GRC.CUSCO: Derogan la Ordenanza N° 011-2011-CR/GRC.CUSCO, que aprobó: Crear el Comité Especial de Promoción de la Inversión Privada del Gobierno Regional del Cusco - CEPRI CUSCO | 1 | 2015-10-17 to 2015-10-17 |
+| `ordenanza-regional-096-2015-cr-grc-cusco` | Ordenanza Regional N° 096-2015-CR/GRC.CUSCO: Aprueban el Plan de Reconstrucción y Reactivación Económica de las Comunidades de Misca, Cusibamba y Limacpata - provincia de Paruro | 1 | 2015-10-17 to 2015-10-17 |
+| `ordenanza-regional-092-2015-cr-grc-cusco` | Ordenanza Regional N° 092-2015-CR/GRC.CUSCO: Crean el Comité Técnico Regional de Incendios Foresales en la Región Cusco | 1 | 2015-10-17 to 2015-10-17 |
+| `ordenanza-regional-094-2015-cr-grc-cusco` | Ordenanza Regional N° 094-2015-CR/GRC.CUSCO: Declaran de interés y prioridad regional la Salud Materno Neonatal Saludable y Segura | 1 | 2015-09-29 to 2015-09-29 |
+| `ordenanza-regional-083-2014-cr-grc-cusco` | Ordenanza Regional N° 083-2014-CR/GRC.CUSCO: Disponen que los Guías Oficiales y Licenciados en Turismo exhiban de manera visible el Carné otorgado por la Dirección Regional de Comercio Exterior y Turismo (DIRCETUR) y/o el Carné Oficial otorgado por el Colegio de Licenciados en Turismo (COLITUR) al m | 1 | 2015-08-20 to 2015-08-20 |
+| `ordenanza-regional-070-014-cr-grc-cusco` | Ordenanza Regional N° 070-014-CR/GRC.CUSCO: Crean el Consejo Regional de Fomento  Artesanal de Cusco (COREFAR) como órgano de coordinación entre el sector público y privado | 1 | 2015-08-02 to 2015-08-02 |
+| `ordenanza-regional-080-2010-cr-grc-cusco` | Ordenanza Regional N° 080-2010-CR/GRC.CUSCO: Aprueban Cuadro para Asignación de Personal - CAP modificado de la Dirección Regional de Agricultura Cusco | 1 | 2011-03-10 to 2011-03-10 |
+| `ordenanza-regional-077-2010-cr-grc-cusco` | Ordenanza Regional N° 077-2010-CR/GRC.CUSCO: Modifican la Ordenanza Regional N° 075-2010-CR/GRC.CUSCO | 1 | 2010-10-03 to 2010-10-03 |
+| `ordenanza-regional-063-2009-cr-grc-cusco` | Ordenanza Regional N° 063-2009-CR/GRC.CUSCO: Modifican la Ordenanza N° 047-2007-CR/GRC.CUSCO mediante la cual se aprobó el texto del Estudio de Zonificación Ecológica, Económica - ZEE Región Cusco, a nivel de Mesozonificación | 1 | 2010-03-19 to 2010-03-19 |
+| `ordenanza-regional-037-2012-cr-grc-cusco` | Ordenanza Regional N° 037-2012-CR/GRC.CUSCO: Declaran de necesidad e interés público regional, el control de la mosca de la fruta, en el ambito de la Región. | 1 | 2012-11-20 to 2012-11-20 |
+| `ordenanza-regional-009-2011-gr-grc-cusco` | Ordenanza Regional N° 009-2011-GR/GRC.CUSCO: Declaran competente a la Gerencia Regional de Desarrollo Económico para ejercer las funciones de promoción y fomento de Cooperativas y de la Micro y Pequeña Empresa | 1 | 2012-03-07 to 2012-03-07 |
+| `ordenanza-regional-054-2013-cr-grc-cusco` | Ordenanza Regional N° 054-2013-CR/GRC.CUSCO: Aprueban Estrategia Regional de Seguridad Alimentaria "Por una Niñez Feliz" 2013 - 2021 | 1 | 2013-11-23 to 2013-11-23 |
+| `ordenanza-regional-052-2013-cr-grc-cusco` | Ordenanza Regional N° 052-2013-CR/GRC.CUSCO: Aprueban documento denominado "Acuerdo por el Cusco", suscrito por los representantes y candidatos de diversos partidos y movimientos políticos a la Presidencia del Gobierno Regional del Cusco | 1 | 2013-11-23 to 2013-11-23 |
+| `ordenanza-regional-010-2011-cr-grc-cusco` | Ordenanza Regional N° 010-2011-CR/GRC.CUSCO: Aprueban el "Plan Regional Concertado de Saneamiento Básico del Cusco al 2021" | 1 | 2012-01-20 to 2012-01-20 |
+| `ordenanza-regional-049-2013-cr-grc-cusco` | Ordenanza Regional N° 049-2013-CR/GRC.CUSCO: Aprueban Reglamento Interno de Organización y Funciones del Consejo Regional del Gobierno Regional del Cusco | 1 | 2013-03-29 to 2013-03-29 |
+
+The build made 119 commits:
+
+| Commits | Kind |
+| ---: | --- |
+| 119 | first version of an act |
+| 0 | one law on its in-force day |
+| 0 | changes no amendment note explains, credited to the publisher |
+
+Other counts:
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
+- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 119 laws in the record.
+- 238 tags.
+
+## Dates
+
+Each commit is dated at noon (America/Lima) on the day the change took effect. The other dates, enacted and published, are trailers.
+
+When a law gives no date of its own, the default rule applies: Constitución Política del Perú, art. 109: "La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte." Ley Orgánica de Gobiernos Regionales (Ley 27867), art. 42, applies the same rule to regional norms: in force from the day after publication in El Peruano unless the norm itself names another day. https://www.congreso.gob.pe
+
+## How the history is built
+
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+
+- Corpus: sha256 `694a87d18f3966bae7a01cc703f40ec4d696c3601ca8b7f1a31a83ac88c78471` (1945702 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Python 3.12.10; git version 2.46.0.windows.1.
+
+## Checks
+
+119 versions of 119 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+
+No second build of this corpus has been compared yet.
+
+## Decisions made by hand
+
+- Source: the Diario Oficial El Peruano, Normas Legales, which publishes every ordinance of Gobierno Regional del Cusco as enacted. It publishes no consolidated texts, so each ordinance is shown once, as published (the oldest version available), dated on the day it took effect. An ordinance that amends another is its own entry; its changes are not applied to the earlier text.
+- In-force day: the ordinance's own vigencia clause (the day after publication, from publication, or a named date); otherwise the day after publication (Constitución, art. 109; Ley 27867, art. 42). An ordinance whose vigencia clause this reader cannot resolve is left out.
+- Text: the ordinance is cut from El Peruano's PDF extract, from the end of the previous norm to the operation number printed under it. El Peruano's own furniture (running heads, section headings, its summary title above the norm, the operation number) is not part of the text. Annexes that El Peruano does not print are not included.
+- Units: the heading (encabezado: number, considerandos and enacting formula, everything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (dispositions, signatures). Nothing printed between those bounds is dropped. One paragraph per line, spacing normalised, words broken at a line end joined.
+- Ordinances are added newest first, in parts of about 50.
+
+## What AI did and did not do
+
+The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+
+No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
+
+The commit messages are written by `build.py` from the source data.
+
+Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code and chose which ordinances to include; it wrote no law text. Every word of law comes from El Peruano's own PDF extracts.
